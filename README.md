@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .channel one-word domains from Uni
 
 **Public extract:** 5,173 rows · **Live catalog:** 5,173 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/channel`  
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | patriotic.channel  | resell    | —         | —             | 76             | 9      | 9      | Dynadot LLC.    |
 | with.channel       | premium   | $623.75   | —             | 69             | 74     | 4      | name.com        |
 | dowjones.channel   | available | $16.48    | —             | 80             | 63     | 9      | namecheap       |
-| http.channel       | premium   | $623.75   | —             | 80             | 73     | 4      | name.com        |
+| impact.channel     | premium   | $311.25   | —             | 74             | 73     | 6      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHANNEL One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHANNEL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
