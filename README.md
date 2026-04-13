@@ -74,7 +74,7 @@ print(df.head())
 | trade.channel      | resell    | —         | —             | 82             | 46     | 5      | Spaceship, Inc. |
 | loop.channel       | premium   | $311.25   | —             | 72             | 77     | 4      | name.com        |
 | jeep.channel       | available | $16.48    | —             | 69             | 66     | 4      | namecheap       |
-| craft.channel      | resell    | —         | —             | 70             | 41     | 5      | Spaceship, Inc. |
+| craft.channel      | resell    | —         | —             | 70             | 42     | 5      | Spaceship, Inc. |
 | name.channel       | premium   | $623.75   | —             | 82             | 76     | 4      | name.com        |
 | priceless.channel  | available | $16.48    | —             | 79             | 65     | 9      | namecheap       |
 | revelation.channel | resell    | —         | —             | 70             | 21     | 10     | Dynadot LLC.    |
