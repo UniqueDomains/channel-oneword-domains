@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .channel one-word domains from Uni
 
 **Public extract:** 5,173 rows · **Live catalog:** 5,173 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/channel`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | adobe.channel      | available | $16.48    | —             | 72             | 69     | 5      | namecheap       |
-| flow.channel       | resell    | —         | —             | 78             | 67     | 4      | Porkbun LLC     |
+| flow.channel       | resell    | —         | —             | 78             | 66     | 4      | Porkbun LLC     |
 | mac.channel        | premium   | $73.75    | —             | 84             | 82     | 3      | name.com        |
 | canon.channel      | available | $19.99    | —             | 70             | 67     | 5      | name.com        |
 | you.channel        | resell    | —         | —             | 74             | 49     | 3      | Porkbun LLC     |
@@ -75,7 +75,7 @@ print(df.head())
 | loop.channel       | premium   | $311.25   | —             | 72             | 77     | 4      | name.com        |
 | jeep.channel       | available | $16.48    | —             | 69             | 66     | 4      | namecheap       |
 | craft.channel      | resell    | —         | —             | 70             | 42     | 5      | Spaceship, Inc. |
-| name.channel       | premium   | $623.75   | —             | 82             | 76     | 4      | name.com        |
+| name.channel       | premium   | $623.75   | —             | 82             | 75     | 4      | name.com        |
 | priceless.channel  | available | $16.48    | —             | 79             | 65     | 9      | namecheap       |
 | revelation.channel | resell    | —         | —             | 70             | 21     | 10     | Dynadot LLC.    |
 | fire.channel       | premium   | $623.75   | —             | 70             | 75     | 4      | name.com        |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHANNEL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHANNEL One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
