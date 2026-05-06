@@ -1,10 +1,10 @@
-# Available .CHANNEL One-Word Domains (10,409)
+# Available .CHANNEL One-Word Domains (10,412)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C409%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C412%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .channel one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,409 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,412 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,409 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,412 domains · **Median ask:** $106.62 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/channel`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,10 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| myson.channel       | available | $16.48    | —             | 80             | 5      | 6      | namecheap |
+| dogsit.channel      | available | $16.48    | —             | 96             | 2      | 6      | namecheap |
 | myspace.channel     | available | $16.48    | —             | 80             | 65     | 7      | namecheap |
+| hangon.channel      | available | $16.48    | —             | 82             | 6      | 7      | namecheap |
 | agents.channel      | premium   | $311.25   | —             | 56             | 50     | 6      | name.com  |
 | RedSox.channel      | available | $16.48    | —             | 72             | 60     | 7      | namecheap |
 | Books.channel       | premium   | $1,398.60 | $1,398.60     | 52             | 49     | 5      | namecheap |
@@ -81,9 +84,6 @@ print(df.head())
 | unicorns.channel    | available | $16.48    | —             | 73             | 21     | 8      | namecheap |
 | matcha.channel      | premium   | $36.25    | —             | 86             | 39     | 6      | name.com  |
 | Allie.channel       | available | $16.48    | —             | 72             | 21     | 5      | namecheap |
-| Friends.channel     | premium   | $698.60   | $698.60       | 82             | 37     | 7      | namecheap |
-| grassroots.channel  | available | $16.48    | —             | 70             | 21     | 11     | namecheap |
-| notes.channel       | premium   | $623.75   | —             | 73             | 37     | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,409 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 10,412 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all in the .channel extension, which makes the main decision less about TLD choice and more about the name itself. In this set, the median ask is 106.62, so buyers should focus on whether a domain is clean, memorable, and commercially usable at that price level. Short, generic terms such as finals.channel may feel more flexible than coined or awkward strings such as xoxoxo.channel. Sample names like Skype.channel, Adidas.channel, Reebok.channel, and Fanta.channel also show why trademark screening matters here. When comparing these domains, weigh clarity, resale practicality, renewal tolerance, and legal risk before treating any low ask as attractive.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All results use the .channel extension
+- Median ask across this selection is 106.62
+- Generic terms usually age better than branded strings
+- Check trademark exposure before judging value
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHANNEL One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHANNEL One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
