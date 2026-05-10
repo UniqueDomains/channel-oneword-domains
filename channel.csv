@@ -101,6 +101,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 04c09068-872f-4203-911e-40fb10ba290e,cloaks.channel,available,16.48,,50,5,6,namecheap,,
 04ca3259-761d-4b8d-b1f6-b6235827072a,manycolored.channel,available,16.48,,54,0,12,namecheap,,
 04d6d8b1-089f-4f1a-8779-ff68de6b9f38,LongIsland.channel,premium,40.6,40.6,62,27,11,namecheap,,
+04d7e317-5bca-457c-8fab-5cd9c5b08aee,BBC.channel,premium,,,84,68,3,,,
 04db935d-3801-461c-a826-25c25a00c56a,puton.channel,available,16.48,,70,7,6,namecheap,,
 05207797-e230-4088-9dab-dc86783ff513,bloodpressuregauge.channel,available,16.48,,48,1,20,namecheap,,
 0520cbf3-02ab-468a-8f09-95a008dd3032,nomnomnom.channel,available,16.48,,84,5,11,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 304fa557-cd56-44ec-9645-0632220264dd,manysplendored.channel,available,16.48,,60,2,15,namecheap,,
 30520213-9ec5-49f2-bba2-9253aba34b30,cupboards.channel,available,16.48,,48,3,9,namecheap,,
 305623f9-036f-489d-b424-a9a930b685a2,retrieved.channel,available,16.48,,57,3,9,namecheap,,
-3058fee5-b095-4d9f-918a-0be6ae5e8251,instep.channel,available,16.48,,72,7,7,namecheap,,
