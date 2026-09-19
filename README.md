@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .channel one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,129 domains · **Median ask:** $53.21 · **High-demand under $2,500:** 30
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-19
 **Canonical page:** `https://unique.domains/domains/tld/channel`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| flee.channel  | available | $16.48    | —             | medium         | low    | 4      | namecheap       |
-| trade.channel | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
-| ace.channel   | premium   | $623.75   | $623.75       | high           | medium | 3      | name.com        |
-| pity.channel  | available | $16.48    | —             | high           | low    | 4      | namecheap       |
-| age.channel   | premium   | $648.70   | $648.70       | medium         | low    | 3      | namecheap       |
-| torn.channel  | available | $16.48    | —             | medium         | low    | 4      | namecheap       |
-| aid.channel   | premium   | $311.25   | —             | medium         | low    | 3      | name.com        |
-| xxii.channel  | available | $16.48    | —             | medium         | low    | 4      | namecheap       |
-| atp.channel   | premium   | $73.75    | —             | medium         | low    | 3      | name.com        |
-| yawn.channel  | available | $16.48    | —             | medium         | low    | 4      | namecheap       |
-| awe.channel   | premium   | $73.75    | —             | high           | low    | 3      | name.com        |
-| abide.channel | available | $16.48    | —             | high           | low    | 5      | namecheap       |
-| ben.channel   | premium   | $623.75   | —             | high           | medium | 3      | name.com        |
-| adobe.channel | available | $16.48    | —             | high           | medium | 5      | namecheap       |
-| bio.channel   | premium   | $623.75   | —             | high           | medium | 3      | name.com        |
-| baggy.channel | available | $16.48    | —             | medium         | low    | 5      | namecheap       |
-| bit.channel   | premium   | $623.75   | —             | high           | medium | 3      | name.com        |
-| balmy.channel | available | $16.48    | —             | high           | low    | 5      | namecheap       |
-| boo.channel   | premium   | $161.25   | —             | medium         | low    | 3      | name.com        |
-| bulky.channel | available | $16.48    | —             | medium         | low    | 5      | namecheap       |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| correct.channel | premium   | $161.25   | $161.25       | high           | low    | 7      | name.com        |
+| content.channel | premium   | $623.75   | $623.75       | high           | low    | 7      | name.com        |
+| tender.channel  | premium   | $161.25   | $161.25       | high           | low    | 6      | name.com        |
+| flee.channel    | available | $16.48    | —             | medium         | low    | 4      | namecheap       |
+| trade.channel   | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
+| ace.channel     | premium   | $623.75   | $623.75       | high           | medium | 3      | name.com        |
+| pity.channel    | available | $16.48    | —             | high           | low    | 4      | namecheap       |
+| age.channel     | premium   | $648.70   | $648.70       | medium         | low    | 3      | namecheap       |
+| torn.channel    | available | $16.48    | —             | medium         | low    | 4      | namecheap       |
+| aid.channel     | premium   | $311.25   | —             | medium         | low    | 3      | name.com        |
+| xxii.channel    | available | $16.48    | —             | medium         | low    | 4      | namecheap       |
+| atp.channel     | premium   | $73.75    | —             | medium         | low    | 3      | name.com        |
+| yawn.channel    | available | $16.48    | —             | medium         | low    | 4      | namecheap       |
+| awe.channel     | premium   | $73.75    | —             | high           | low    | 3      | name.com        |
+| abide.channel   | available | $16.48    | —             | high           | low    | 5      | namecheap       |
+| ben.channel     | premium   | $623.75   | —             | high           | medium | 3      | name.com        |
+| adobe.channel   | available | $16.48    | —             | high           | medium | 5      | namecheap       |
+| bio.channel     | premium   | $623.75   | —             | high           | medium | 3      | name.com        |
+| baggy.channel   | available | $16.48    | —             | medium         | low    | 5      | namecheap       |
+| bit.channel     | premium   | $623.75   | —             | high           | medium | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHANNEL One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHANNEL One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
