@@ -12,7 +12,8 @@ a72840ca-cdad-4e89-b16c-76aa76a84c0f,agapornis.channel,available,12.98,16.48,med
 e6673f98-12b2-4cc8-ad9b-5133cb95b255,archangel.channel,available,12.98,16.48,high,low,9,namecheap,,,19/09/2026 05:59
 9dc9793b-0130-4995-9e8a-3d7f47d3356e,boniface.channel,available,12.98,16.48,medium,low,8,namecheap,,,19/09/2026 19:19
 49b94602-5a32-45f3-9545-c1689157b9f1,clipper.channel,available,12.98,16.48,high,low,7,namecheap,,,24/09/2026 15:46
-377d25db-ee77-436d-bf03-956a2df7293b,helping.channel,premium,73.75,,high,low,7,name.com,,,
+377d25db-ee77-436d-bf03-956a2df7293b,helping.channel,premium,61.27,61.27,high,low,7,spaceship,,,29/09/2026 22:38
+80adebbd-2359-4800-8c72-0cff155ddd4c,asc.channel,premium,61.27,61.27,high,low,3,spaceship,,,29/09/2026 14:58
 77a4fac2-1640-479a-aa4c-94dbbdf5bc8d,quiver.channel,available,12.98,16.48,high,low,6,namecheap,,,11/09/2026 19:13
 7c1e78e6-ff99-4bac-864c-127ad9a7b062,wagram.channel,available,12.98,16.48,medium,low,6,namecheap,,,22/09/2026 16:18
 a0bf7d5f-36e4-4165-8c3b-178a37f96ed5,cacomistle.channel,available,12.98,16.48,medium,low,10,namecheap,,,22/09/2026 12:02
@@ -22,23 +23,25 @@ bcb0d046-e746-40d2-adf8-2bb95fedb746,axially.channel,available,12.98,16.48,mediu
 eae9318e-d4e1-48e8-bb01-7907b3f80a69,hackmatack.channel,available,12.98,16.48,medium,low,10,namecheap,,,22/09/2026 00:09
 f58856ac-43f8-4a41-b78f-4038f06df16c,fallible.channel,available,12.98,16.48,medium,low,8,namecheap,,,17/08/2026 21:30
 c965d84d-64af-4723-9432-7f5c985e5108,drawings.channel,premium,37.7,37.7,low,low,8,namecheap,,,28/09/2026 13:09
-51fa1c71-9ae1-47f7-9746-655cd7e10557,pimento.channel,available,19.99,19.99,medium,low,7,name.com,,,23/09/2026 05:37
+51fa1c71-9ae1-47f7-9746-655cd7e10557,pimento.channel,available,19.99,19.99,high,low,7,name.com,,,23/09/2026 05:37
 c5f2b3a8-f1b4-496e-b197-4466d69605ca,budgets.channel,available,10.55,10.55,medium,low,7,spaceship,,,28/09/2026 08:37
 ff6fece4-b6bb-4eb3-830b-076242e82068,central.channel,premium,648.7,648.7,high,low,7,namecheap,,,23/09/2026 12:46
 1f8cdc2b-c764-4010-8589-136236112c4b,pellagra.channel,available,19.99,19.99,medium,low,8,name.com,,,18/09/2026 13:55
 8c3e8b84-b92b-4e13-bc60-5132f1217e0b,sarah.channel,premium,323.7,323.7,high,low,5,namecheap,,,25/09/2026 10:34
+736fb692-d79b-432d-881f-eb5ded0738bc,gestures.channel,available,10.55,10.55,medium,low,8,spaceship,,,30/09/2026 00:19
 6d3444b7-5419-4bb7-b096-f05c1e725423,mop.channel,premium,73.75,,high,low,3,name.com,,,
 de9c5b98-ec79-4062-9c36-71b713110f96,doubles.channel,available,10.55,10.55,high,low,7,spaceship,,,28/09/2026 18:58
 91577c50-fb15-4270-a36e-cff1050b85dd,supposedly.channel,available,10.55,10.55,medium,low,10,spaceship,,,28/09/2026 16:34
 76d6e048-44a0-4a7d-b0d2-c4087bd78cdd,wedged.channel,available,12.98,16.48,medium,low,6,namecheap,,,21/08/2026 21:38
 fdc11676-1326-4703-8f27-27d1ae51fbd9,similar.channel,premium,73.75,73.75,high,low,7,name.com,,,
 1f42457e-dd03-424f-86cc-7883f5a92ce1,millions.channel,premium,76.7,76.7,medium,low,8,namecheap,,,25/09/2026 20:31
-29071de1-d247-4d31-9adc-ae468abd16cf,ronald.channel,premium,76.7,76.7,medium,low,6,namecheap,,,28/09/2026 11:51
+29071de1-d247-4d31-9adc-ae468abd16cf,ronald.channel,premium,76.7,76.7,high,low,6,namecheap,,,28/09/2026 11:51
 f67b6a70-872b-4893-8c0c-29aefc6f93da,nubile.channel,available,12.98,16.48,medium,low,6,namecheap,,,24/08/2026 16:30
 9f0328ef-2211-4cc8-b384-8eefbd51eefc,cent.channel,premium,76.7,76.7,high,low,4,namecheap,,,08/09/2026 08:07
 29051057-db5d-4ce2-aefb-db1a2dd7ca82,diaz.channel,premium,76.7,76.7,high,low,4,namecheap,,,22/09/2026 09:18
 f2c4ccd1-d157-4cd8-89c6-b190cb514b92,shucks.channel,available,19.99,19.99,medium,low,6,name.com,,,13/08/2026 16:16
 9b619d1d-9ca0-47aa-9df6-bc14f539b994,sodden.channel,available,12.98,16.48,medium,low,6,namecheap,,,10/09/2026 13:24
+0f849d73-d4d2-4d07-95ef-b5a712d7e6f2,spartanburg.channel,available,10.55,10.55,high,low,11,spaceship,,,29/09/2026 22:45
 0308d61c-a5c1-4525-b57c-c6e961c091bd,vegetal.channel,available,12.98,16.48,medium,low,7,namecheap,,,13/09/2026 01:42
 b5366af5-79fa-4eca-b333-3eb730a8cb5c,hired.channel,premium,36.25,36.25,high,low,5,name.com,,,12/08/2026 02:48
 3915dd8c-02b7-47ed-8cb1-4cfc7f1d5e7b,cumulous.channel,available,12.98,16.48,medium,low,8,namecheap,,,13/08/2026 10:30
@@ -48,7 +51,7 @@ dc557665-db61-4f1b-ac32-c73466631953,adams.channel,premium,311.25,311.25,high,lo
 4ed1469a-7ed1-47d7-8861-3b30c86df549,plunge.channel,available,12.98,16.48,high,low,6,namecheap,,,10/09/2026 19:52
 63e587f2-65cb-4900-b423-9938463e774c,centroidal.channel,available,12.98,16.48,medium,low,10,namecheap,,,12/08/2026 00:18
 52c4a085-76be-498c-95f3-8c24cf45dc96,axilla.channel,available,12.98,16.48,medium,low,6,namecheap,,,20/09/2026 07:40
-6ae3e49d-8fa2-4e97-90eb-236fd38dc799,squishy.channel,available,12.98,16.48,medium,low,7,namecheap,,,10/09/2026 16:26
+6ae3e49d-8fa2-4e97-90eb-236fd38dc799,squishy.channel,available,12.98,16.48,high,low,7,namecheap,,,10/09/2026 16:26
 d1449f70-3558-43e9-b937-13f7c71e36df,inglorious.channel,available,12.98,16.48,medium,low,10,namecheap,,,21/08/2026 18:25
 edca35c2-8cd7-449d-9ef6-39e2cf60a0cf,paused.channel,available,12.98,16.48,medium,low,6,namecheap,,,18/09/2026 02:16
 a3d6aaa5-92c6-4a77-9b9a-908b4d63ea33,face.channel,premium,648.7,648.7,high,low,4,namecheap,,,24/09/2026 21:57
@@ -72,6 +75,7 @@ b2c1840a-ab15-4d00-a0b2-48d3cfbc6e1d,attachments.channel,available,12.98,16.48,m
 dab2a3b4-c147-44cd-8706-d84cc5a67939,viridity.channel,available,12.98,16.48,high,low,8,namecheap,,,20/08/2026 19:47
 f6049a13-e821-4e7e-b33b-46c1fa2316fa,rained.channel,available,12.98,16.48,medium,low,6,namecheap,,,20/09/2026 05:42
 f85b4513-3487-4e73-85b7-8dfdca885946,utc.channel,premium,133.72,133.72,medium,low,3,spaceship,,,28/09/2026 09:27
+9bda614e-621c-4c00-9826-05c209b55bc3,flashes.channel,available,12.98,16.48,medium,low,7,namecheap,,,29/09/2026 10:47
 828580e1-83c7-4b99-a6de-59805714ef49,aeolis.channel,available,12.98,16.48,low,low,6,namecheap,,,17/09/2026 12:32
 7e7c90c0-edf0-4bf2-af0b-850e0556bfd0,nash.channel,premium,73.75,,high,low,4,name.com,,,
 8a164e8a-6da5-4274-9616-2ee6c15d7530,civilly.channel,available,12.98,16.48,medium,low,7,namecheap,,,14/09/2026 06:57
@@ -81,37 +85,42 @@ b0a9f9b5-9bc5-4d10-a657-750a0895ed5f,altruism.channel,available,10.55,10.55,high
 559f4014-324c-4a47-98eb-542b8265e21d,dismissive.channel,available,12.98,16.48,medium,low,10,namecheap,,,14/08/2026 11:49
 d141b8f4-b821-40ed-95a1-f68701273ad9,dodge.channel,premium,133.72,133.72,high,low,5,spaceship,,,28/09/2026 01:47
 56af242d-9bae-4d49-84dc-1595621b31ac,interest.channel,premium,323.7,323.7,high,low,8,namecheap,,,08/09/2026 14:02
-3653d6a2-8053-4fcc-a1fe-fb0ccb3ea52d,sigmund.channel,available,12.98,16.48,medium,low,7,namecheap,,,28/09/2026 11:40
+3653d6a2-8053-4fcc-a1fe-fb0ccb3ea52d,sigmund.channel,available,12.98,16.48,high,low,7,namecheap,,,28/09/2026 11:40
 10f89230-e784-4d9b-a0fa-318cdf58332b,norman.channel,premium,73.75,73.75,high,low,6,name.com,,,03/09/2026 21:18
 583b9d28-ea9d-4b99-aefb-6a66bdd3ff07,alveolus.channel,available,12.98,16.48,medium,low,8,namecheap,,,17/09/2026 22:03
+ce30454e-afc1-4edb-a4c6-ebac6849dadf,vancouver.channel,premium,167.7,167.7,high,medium,9,namecheap,,,29/09/2026 12:40
 ad98b766-4fd3-411f-bf6a-919db7b0beff,exclamation.channel,available,16.48,,high,low,11,namecheap,,,
 0cf7d572-8840-41bb-85a1-a420011cd30d,barmaid.channel,available,12.98,16.48,high,low,7,namecheap,,,22/09/2026 06:36
 7b3c078c-8fb5-4312-b9a1-78a60814373b,serrate.channel,available,12.98,16.48,medium,low,7,namecheap,,,03/09/2026 22:06
 cddd245e-e197-4305-8048-d06f1b3299e0,deviance.channel,available,12.98,16.48,medium,low,8,namecheap,,,16/09/2026 15:16
 30472ce9-ca70-4dc9-9229-0d3f16f594eb,annals.channel,available,12.98,16.48,high,low,6,namecheap,,,19/09/2026 10:05
 098c9f6c-6a1d-48fc-beb2-cabeadc998d4,western.channel,premium,311.25,311.25,high,low,7,name.com,,,13/09/2026 10:56
+c7a1d383-cdd0-49c9-90c3-520c5775ef23,fences.channel,available,10.55,10.55,medium,low,6,spaceship,,,29/09/2026 11:21
 7e0fc1e4-a869-45e8-ab6a-927882ae19f7,blok.channel,premium,37.7,37.7,high,low,4,namecheap,,,18/09/2026 05:01
 068b86ab-5a0f-4253-a200-c19dabe60505,cave.channel,premium,76.7,76.7,high,low,4,namecheap,,,24/09/2026 13:21
 2a36720a-40ba-4c0b-ba6b-33221861e18e,halt.channel,premium,37.7,37.7,high,low,4,namecheap,,,24/09/2026 01:49
+3132db30-f2a9-4e25-9fd8-60cbece79014,ner.channel,premium,61.27,61.27,high,low,3,spaceship,,,29/09/2026 14:31
 e0a74ec4-15ea-4a6f-86a6-17a406e9f44f,cognizant.channel,available,12.98,16.48,high,low,9,namecheap,,,08/08/2026 00:13
 1d91ad27-a411-433e-bef6-253480cfd707,nicolas.channel,premium,76.7,76.7,high,low,7,namecheap,,,25/09/2026 13:18
 cd173cce-f410-4f10-bf74-a4dcf8a5bd1e,compile.channel,available,12.98,16.48,high,low,7,namecheap,,,08/09/2026 09:16
 fd4d3bdb-0d15-4da5-8b1f-fd8bffabda39,moving.channel,premium,648.7,648.7,high,low,6,namecheap,,,25/09/2026 22:01
 e77f718e-5262-4bdd-95f1-505e2da52c70,generals.channel,available,12.98,16.48,medium,low,8,namecheap,,,18/09/2026 06:44
+44c9d739-b412-4613-8745-8fd3ffabadcc,volumes.channel,available,10.55,10.55,medium,low,7,spaceship,,,29/09/2026 17:06
 a8a04adc-93de-4774-9e59-5f769e64cbc8,filetype.channel,available,16.48,,medium,low,9,namecheap,,,
 fb4a1e04-8e96-47e6-a926-929940749cf0,seedcase.channel,available,12.98,16.48,medium,low,8,namecheap,,,12/08/2026 15:07
 f7ac5aed-7e4c-4bc1-a9db-5d913ad09be6,stupe.channel,available,12.98,16.48,medium,low,5,namecheap,,,10/09/2026 23:06
 b861a75d-bb5c-450d-b46e-73e5b138dfec,calls.channel,premium,167.7,167.7,medium,low,5,namecheap,,,18/09/2026 14:59
 0f2f1693-59be-4e86-9769-47dfccaf94bb,felony.channel,available,10.55,10.55,medium,low,6,spaceship,,,28/09/2026 09:45
-bdbe4889-6fb0-4a7d-af43-f79657770c96,advisor.channel,premium,323.7,323.7,high,low,7,namecheap,,,25/09/2026 05:10
+bdbe4889-6fb0-4a7d-af43-f79657770c96,advisor.channel,premium,323.7,323.7,high,low,7,namecheap,,,29/09/2026 08:01
 b6a62e36-6051-484e-b65f-4ae568c2e6e3,monacan.channel,available,12.98,16.48,medium,low,7,namecheap,,,25/08/2026 04:01
 7431eb99-c574-4a9c-8ffa-85e82bd6e9bb,abominable.channel,available,12.98,16.48,medium,low,10,namecheap,,,
 71b1981a-d57c-4ec0-a616-09f14efbb88f,carolean.channel,available,12.98,16.48,medium,low,8,namecheap,,,11/08/2026 19:31
+e56d7944-ff52-4ac4-aecf-d38a08260c7f,ceremonies.channel,available,10.55,10.55,medium,low,10,spaceship,,,29/09/2026 10:36
 6dc8d808-1f4f-4aa2-b732-141edae2a152,brooklyn.channel,premium,323.7,323.7,high,low,8,namecheap,,,24/09/2026 10:45
 b7b2a900-ca24-4eb1-93c8-16737a5d270b,pierson.channel,available,10.55,10.55,medium,low,7,spaceship,,,28/09/2026 23:01
 df28c988-96b5-4adb-89a8-7c03c9017511,campfire.channel,available,12.98,16.48,high,low,8,namecheap,,,24/09/2026 11:54
 2fc54174-4835-447e-b3da-de9c6570f0c8,disrupt.channel,premium,36.25,36.25,high,low,7,name.com,,,13/08/2026 12:40
-1b98aa6c-fd05-46fc-9b7d-de63acddfd88,peters.channel,premium,61.27,61.27,medium,low,6,spaceship,,,28/09/2026 17:25
+1b98aa6c-fd05-46fc-9b7d-de63acddfd88,peters.channel,premium,61.27,61.27,high,low,6,spaceship,,,28/09/2026 17:25
 bcb85386-aae8-4643-8d10-7cf3b873859b,elvish.channel,available,12.98,16.48,medium,low,6,namecheap,,,16/08/2026 03:43
 d1d846f4-1667-4c8a-abeb-f8f272898c3c,reduced.channel,available,12.98,16.48,medium,low,7,namecheap,,,13/08/2026 22:10
 dff74342-9ea8-4d86-a46b-0967a929a7b6,options.channel,premium,323.7,323.7,high,low,7,namecheap,,,19/09/2026 14:29
@@ -120,7 +129,7 @@ ef07979f-d6a8-4126-9fa1-72cd7e2f4bff,pitiful.channel,available,12.98,16.48,mediu
 90c60fcf-54b1-4819-9a21-a4a1f59a8fcc,dryly.channel,available,12.98,16.48,medium,low,5,namecheap,,,14/09/2026 14:21
 8e80ffcb-c7ec-401d-a7b1-2156449dbde2,tarragon.channel,available,12.98,16.48,high,low,8,namecheap,,,20/09/2026 10:17
 bf76cf18-e847-488b-850b-3b77945d05f6,squeak.channel,available,12.98,16.48,high,low,6,namecheap,,,24/09/2026 15:54
-e8cc2c5e-fe48-4500-8e95-6652d46969bb,pallas.channel,available,12.98,16.48,medium,low,6,namecheap,,,20/09/2026 20:39
+e8cc2c5e-fe48-4500-8e95-6652d46969bb,pallas.channel,available,12.98,16.48,high,low,6,namecheap,,,20/09/2026 20:39
 c3a49435-92d8-46f6-89e6-827951156487,burnt.channel,available,12.98,16.48,high,low,5,namecheap,,,23/09/2026 11:41
 d455632f-099d-45bf-8b83-ffaa43bb2e4f,shielded.channel,available,12.98,16.48,high,medium,8,namecheap,,,10/09/2026 06:27
 f761a8ac-e622-4fa6-a67d-4c6045f82878,anomy.channel,available,12.98,16.48,medium,low,5,namecheap,,,19/09/2026 11:32
@@ -135,7 +144,7 @@ ecae13e2-0168-4b6b-8554-014b82daea6a,connatural.channel,available,12.98,16.48,me
 5a0d5235-53e7-4a51-8294-91326be38645,crosses.channel,available,10.55,10.55,medium,low,7,spaceship,,,28/09/2026 17:44
 bbcd6a08-8636-4d0e-9223-956d0f42dd39,forthright.channel,available,12.98,16.48,high,low,10,namecheap,,,11/08/2026 16:42
 99da5370-0f8e-46c6-870c-2473a965277b,healthier.channel,available,12.98,16.48,high,low,9,namecheap,,,24/09/2026 19:03
-dfe8d5af-601f-4634-997a-ed3dea731eea,comprehensive.channel,available,10.55,10.55,medium,low,13,spaceship,,,29/09/2026 02:53
+dfe8d5af-601f-4634-997a-ed3dea731eea,comprehensive.channel,available,10.55,10.55,high,low,13,spaceship,,,29/09/2026 02:53
 71a70c79-85a4-4093-bfd5-44dba7e62580,impossible.channel,premium,167.7,167.7,high,medium,10,namecheap,,,25/09/2026 07:55
 013d2ee6-a2c7-45e4-9844-d78c0f145a58,slipped.channel,available,12.98,16.48,high,low,7,namecheap,,,18/09/2026 02:25
 573e0e3a-4a4b-42f0-85f1-d7184088987a,youngish.channel,available,12.98,16.48,high,low,8,namecheap,,,13/09/2026 14:49
@@ -143,20 +152,22 @@ dfe8d5af-601f-4634-997a-ed3dea731eea,comprehensive.channel,available,10.55,10.55
 9c92d863-6ddd-41e3-b14b-4e67901ca63e,betula.channel,available,12.98,16.48,medium,low,6,namecheap,,,23/09/2026 11:52
 d9cbe53a-74e6-42ab-8f23-b8e79154123d,beats.channel,premium,167.7,167.7,high,high,5,namecheap,,,22/09/2026 21:32
 82f98715-e620-4417-95cf-97c6efbe9187,antarctic.channel,available,12.98,16.48,high,low,9,namecheap,,,
-2ebdfcad-d790-4626-96a5-29ea438043d2,terrace.channel,premium,30.22,30.22,medium,low,7,spaceship,,,28/09/2026 20:08
+2ebdfcad-d790-4626-96a5-29ea438043d2,terrace.channel,premium,30.22,30.22,high,low,7,spaceship,,,28/09/2026 20:08
 01fcfa75-e6ad-4956-9142-6cd5d5caeb9b,placable.channel,available,12.98,16.48,high,medium,8,namecheap,,,08/09/2026 20:13
 8f506d66-229c-43ee-a45b-ac3a801a1891,leibniz.channel,available,12.98,16.48,medium,low,7,namecheap,,,29/09/2026 01:06
 cb412a15-b927-499b-a352-0cba2721ead6,blacktop.channel,available,19.99,19.99,medium,low,8,name.com,,,24/09/2026 03:24
 3e9a2eb6-40d9-4533-818c-69579e5e0ce5,grapy.channel,available,12.98,16.48,medium,low,5,namecheap,,,20/08/2026 18:07
 179af937-643f-4ff2-8231-54a6f32e53e5,schulz.channel,premium,30.22,30.22,high,low,6,spaceship,,,28/09/2026 13:42
-1e2f9757-aef2-4681-a8f6-5973f8ad2ba9,aggravated.channel,available,12.98,16.48,medium,low,10,namecheap,,,
+1e2f9757-aef2-4681-a8f6-5973f8ad2ba9,aggravated.channel,available,12.98,16.48,high,low,10,namecheap,,,
 f252ce25-bfa7-4721-8e18-a9528f5f3c22,timorous.channel,available,12.98,16.48,medium,low,8,namecheap,,,11/09/2026 16:05
 d797a09e-1c87-4015-8432-f86d40410154,anointer.channel,available,12.98,16.48,medium,low,8,namecheap,,,19/09/2026 11:18
 68699b25-bbb7-49bf-a3af-48963f166c0b,decrease.channel,available,10.55,10.55,medium,low,8,spaceship,,,29/09/2026 00:39
-cae6de51-d2bc-4776-809c-3a06e717a076,futurity.channel,available,12.98,16.48,medium,low,8,namecheap,,,18/08/2026 19:11
+cae6de51-d2bc-4776-809c-3a06e717a076,futurity.channel,available,12.98,16.48,high,low,8,namecheap,,,18/08/2026 19:11
 d55b0df2-a45a-481c-add5-48a13f9f1e05,ribless.channel,available,12.98,16.48,medium,low,7,namecheap,,,09/09/2026 17:15
-ab4c1a2a-2d97-4157-b821-8908b83777b7,plausibly.channel,available,12.98,16.48,medium,low,9,namecheap,,,14/09/2026 09:28
+ab4c1a2a-2d97-4157-b821-8908b83777b7,plausibly.channel,available,12.98,16.48,high,low,9,namecheap,,,14/09/2026 09:28
 81859975-d7da-4339-8717-3229a62ad683,edwards.channel,premium,64.93,64.93,medium,low,7,porkbun,,,28/09/2026 09:34
+63c2831f-556b-4c46-b376-9c89867831de,asd.channel,premium,64.93,64.93,high,low,3,porkbun,,,29/09/2026 22:02
+8036c13c-97c9-45b7-ba61-fd2a14f4d103,mcneill.channel,available,12.98,16.48,medium,low,7,namecheap,,,29/09/2026 04:34
 258aa471-b6fa-4cd1-a36a-ec479fd79ff4,shrewdness.channel,available,12.98,16.48,high,low,10,namecheap,,,20/09/2026 18:18
 542c43a5-7f3b-42d2-8bf2-af0f0405f5e4,sloth.channel,premium,37.7,37.7,high,low,5,namecheap,,,28/09/2026 17:33
 588a5f4e-90d4-4122-ba0b-30cb14f0c459,breast.channel,premium,167.7,167.7,high,low,6,namecheap,,,24/09/2026 08:29
@@ -169,11 +180,12 @@ fd0f53d6-23c4-4f63-a881-95510bd114f7,tangle.channel,premium,37.7,37.7,high,low,6
 9e830c97-dae7-41ee-9ab0-e0d18bee86c4,didnt.channel,available,16.48,,medium,low,5,namecheap,,,
 19dd09c5-e126-4fe2-8364-91589ce8cb9b,existing.channel,available,12.98,16.48,high,low,8,namecheap,,,24/09/2026 15:59
 636952cb-087c-4670-8e6a-8728a84b67ae,under.channel,premium,257.92,257.92,high,low,5,spaceship,,,28/09/2026 09:43
-0bbcee07-977c-46f3-8320-d7084fd487aa,conduction.channel,available,16.48,,high,low,10,namecheap,,,
+0bbcee07-977c-46f3-8320-d7084fd487aa,conduction.channel,available,10.55,10.55,high,low,10,spaceship,,,29/09/2026 10:47
 027777dd-55b5-42ef-b9ed-910245108932,acidity.channel,available,19.99,19.99,medium,low,7,name.com,,,17/09/2026 01:24
 08a46032-adeb-4fa1-a149-e5ec7b3f321b,puberty.channel,available,10.55,10.55,high,low,7,spaceship,,,29/09/2026 02:00
 e08bf560-2f99-41a9-b8b4-56361bfea00e,penally.channel,available,12.98,16.48,medium,low,7,namecheap,,,15/09/2026 19:29
 df51c043-ff6d-4a3c-8bfb-830cf6bbe807,wealthily.channel,available,12.98,16.48,medium,low,9,namecheap,,,16/09/2026 11:21
+25c1d5b1-e919-408f-822e-6c20eb4965e4,administered.channel,available,10.81,10.81,medium,low,12,porkbun,,,29/09/2026 16:19
 0bba3324-6f22-465b-8d95-4ffddf862781,disgusted.channel,available,12.98,16.48,medium,low,9,namecheap,,,14/08/2026 10:30
 371a04ab-789b-45c1-b61d-7eb3a06987ff,translator.channel,premium,61.27,61.27,high,low,10,spaceship,,,28/09/2026 19:30
 87c1ef07-9362-464b-9709-b37f55e059ba,did.channel,premium,623.75,,high,low,3,name.com,,,
@@ -188,12 +200,12 @@ b67776fb-a47e-4a18-ba5b-c4f03569b58f,caucasian.channel,available,12.98,16.48,hig
 bf6470ad-908d-403d-9f14-d1c32ba30663,depictive.channel,available,12.98,16.48,medium,low,9,namecheap,,,14/08/2026 00:41
 57f1e811-bfbe-403a-8eab-52bf528c4e57,binomial.channel,available,12.98,16.48,high,low,8,namecheap,,,10/08/2026 00:30
 a8526438-1db0-412a-a56a-1d5e65657de2,disregard.channel,available,12.98,16.48,high,medium,9,namecheap,,,10/09/2026 12:49
-8309bb43-c77a-416b-bdeb-2b813b594a29,detached.channel,available,12.98,16.48,medium,low,8,namecheap,,,24/09/2026 07:07
+8309bb43-c77a-416b-bdeb-2b813b594a29,detached.channel,available,12.98,16.48,high,low,8,namecheap,,,24/09/2026 07:07
 7afbae9f-0755-4b6d-9e02-677f2374e72b,mastered.channel,available,12.98,16.48,high,low,8,namecheap,,,14/08/2026 17:35
 5ced66f3-1ed3-4d46-a376-86d642f8a7f4,aper.channel,available,12.98,16.48,medium,low,4,namecheap,,,19/09/2026 16:29
 c69631ba-a785-4705-bfe2-5ff0d51f0a54,thriving.channel,available,10.55,10.55,high,low,8,spaceship,,,28/09/2026 05:53
-afe4bba5-1c06-4fc8-8ffd-cfc054102395,phone.channel,premium,1248.75,,high,low,5,name.com,,,
-c9cafa47-673f-4fc4-b554-e33c56abed46,unchanging.channel,available,12.98,16.48,medium,low,10,namecheap,,,12/09/2026 05:04
+afe4bba5-1c06-4fc8-8ffd-cfc054102395,phone.channel,premium,1034.17,1034.17,high,low,5,spaceship,,,29/09/2026 17:28
+c9cafa47-673f-4fc4-b554-e33c56abed46,unchanging.channel,available,12.98,16.48,high,low,10,namecheap,,,12/09/2026 05:04
 6883b1b3-7415-4980-b4f9-05648aca7e5e,magyar.channel,available,12.98,16.48,high,low,6,namecheap,,,21/08/2026 15:41
 5c17115a-fd7b-42dd-8198-c87f657407f2,quantal.channel,available,12.98,16.48,medium,low,7,namecheap,,,09/09/2026 07:28
 66307658-edf3-4650-9036-295ec2115f44,sacking.channel,available,19.99,19.99,medium,low,7,name.com,,,21/09/2026 18:04
@@ -209,19 +221,21 @@ bd720b56-b511-4054-b340-fa822e3e549c,omissive.channel,available,12.98,16.48,medi
 8adf07f7-088d-45ff-87e3-7780a2bfc4d5,pissed.channel,available,12.98,16.48,medium,low,6,namecheap,,,
 6584eb30-0e76-4f3a-b32f-8cdce9979175,moosewood.channel,available,12.98,16.48,medium,low,9,namecheap,,,16/09/2026 23:36
 11b16849-0e51-4c80-ab7d-0bb8c1246959,mercy.channel,premium,167.7,167.7,high,low,5,namecheap,,,25/09/2026 09:18
+7fdb76ed-722a-41af-8d70-019a0c7f8328,pulp.channel,premium,64.93,64.93,high,low,4,porkbun,,,29/09/2026 07:38
 82da6f4c-a75a-4d72-8dc7-0f72c4fb05bd,fashionable.channel,available,10.55,10.55,high,low,11,spaceship,,,28/09/2026 15:41
 1fdb1d87-98c6-416a-9f0e-b314a9a0afb4,hid.channel,premium,76.7,76.7,medium,low,3,namecheap,,,26/09/2026 03:17
 934f4251-7563-4562-9de8-caaf72980ca9,goodness.channel,premium,,,high,low,8,,,,28/09/2026 02:02
 cb182f1b-1c03-4553-8c54-c5b54b01d7b2,eden.channel,premium,516.67,516.67,high,medium,4,spaceship,,,28/09/2026 13:57
 19f9786b-3d47-48f7-a431-68d7119a8b08,nimiety.channel,available,12.98,16.48,medium,low,7,namecheap,,,17/08/2026 16:13
 93a68a10-95e4-46fa-af75-1e0fb20e2896,reputedly.channel,available,12.98,16.48,medium,low,9,namecheap,,,15/09/2026 23:20
-47e5d65d-9788-4660-8039-bf4718da4faf,questioning.channel,available,12.98,16.48,medium,low,11,namecheap,,,27/09/2026 09:01
+47e5d65d-9788-4660-8039-bf4718da4faf,questioning.channel,available,12.98,16.48,high,low,11,namecheap,,,27/09/2026 09:01
 9dfd6185-27ce-400f-844a-5b17dae1271f,electricity.channel,premium,64.93,64.93,high,low,11,porkbun,,,28/09/2026 07:43
 31ea6f39-0770-4455-ab63-70600263a2bd,deny.channel,available,12.98,16.48,high,low,4,namecheap,,,25/09/2026 11:07
-530d7a96-c739-4500-b98b-706b8f76e1f1,attrition.channel,available,12.98,16.48,medium,low,9,namecheap,,,21/09/2026 02:20
+530d7a96-c739-4500-b98b-706b8f76e1f1,attrition.channel,available,12.98,16.48,high,low,9,namecheap,,,21/09/2026 02:20
+c9be2cf6-e253-401c-a0df-3d659a6d6854,empathy.channel,premium,,,high,low,7,,,,30/09/2026 01:30
 46d47866-2b8c-413c-a9dd-11ab1b8190c6,braille.channel,available,19.99,19.99,high,low,7,name.com,,,24/09/2026 08:01
 095806fb-c728-4516-8c30-7a3c3118950e,leprous.channel,available,12.98,16.48,medium,low,7,namecheap,,,23/08/2026 00:12
-c038cfa2-9390-434f-acc8-fb519b175be6,goat.channel,premium,161.25,,high,medium,4,name.com,,,
+c038cfa2-9390-434f-acc8-fb519b175be6,goat.channel,premium,141.35,141.35,high,medium,4,porkbun,,,29/09/2026 07:28
 439c5eb8-8cf6-48d7-8e4a-ff4c6d478365,hotshot.channel,available,12.98,16.48,high,low,7,namecheap,,,21/09/2026 17:48
 ba469261-a80c-493b-8dc7-4da57971c473,offended.channel,available,12.98,16.48,medium,low,8,namecheap,,,04/09/2026 01:24
 5883a384-d924-44d7-9f93-b99508f96c6d,suave.channel,premium,36.25,36.25,high,low,5,name.com,,,13/08/2026 20:48
@@ -230,29 +244,32 @@ f64301ab-f39d-404c-8b9f-ca08ff0e6ed8,mystic.channel,premium,76.7,76.7,high,low,6
 ecf18dc6-5614-4591-b18a-ff90b4c0f74a,saporous.channel,available,12.98,16.48,medium,low,8,namecheap,,,18/08/2026 07:16
 d084a404-fa97-4c32-a9c6-d3627c601dee,service.channel,premium,545.26,545.26,high,medium,7,porkbun,,,29/09/2026 02:32
 4cc7b227-bfbb-406e-8d51-bf761fd02b34,marblewood.channel,available,12.98,16.48,medium,low,10,namecheap,,,19/09/2026 03:58
+746ca273-d65d-4b94-bd0a-5091f43aa956,maastricht.channel,available,12.98,16.48,medium,low,10,namecheap,,,29/09/2026 22:00
 7b8b588d-3a9a-4e21-aa34-be462a307fd3,foyer.channel,available,19.99,19.99,high,low,5,name.com,,,19/09/2026 12:45
 6ba8ac5b-b9ac-4b89-abdd-969bae6f5535,amative.channel,available,12.98,16.48,medium,low,7,namecheap,,,
 b5e8b79e-075c-4ba1-b9b8-57ef609f032b,alternatively.channel,available,12.98,16.48,medium,low,13,namecheap,,,16/09/2026 12:44
 d0235f8c-0dcd-4b53-8130-af547172873f,bawbee.channel,available,12.98,16.48,medium,low,6,namecheap,,,22/09/2026 16:46
 dbb7a847-f16d-464e-af14-4c49d7479f8e,offense.channel,available,12.98,16.48,high,low,7,namecheap,,,04/09/2026 01:32
 f9c61be5-81f2-4e91-a69e-4974510ecc30,bitok.channel,available,12.98,16.48,medium,low,5,namecheap,,,23/09/2026 22:40
-37cbb942-f57a-4fad-817d-a41e202f31a3,grandad.channel,available,16.48,,high,low,7,namecheap,,,
+37cbb942-f57a-4fad-817d-a41e202f31a3,grandad.channel,available,10.55,10.55,high,low,7,spaceship,,,29/09/2026 21:10
 5f3ac0dd-6902-4260-97f4-26e740a84277,harder.channel,available,12.98,16.48,medium,low,6,namecheap,,,26/09/2026 03:10
 3e9fae7b-60b8-4a63-8197-c01d7a3f7dda,storyteller.channel,available,16.48,,high,low,11,namecheap,,,
-fbb8e246-0752-41b5-931f-ede4be43f175,morally.channel,available,12.98,16.48,medium,low,7,namecheap,,,15/09/2026 15:25
-b8aa2d9b-f7c3-4fe0-ae34-7d5fe8a4104a,pain.channel,premium,311.25,,high,low,4,name.com,,,
+fbb8e246-0752-41b5-931f-ede4be43f175,morally.channel,available,12.98,16.48,high,low,7,namecheap,,,15/09/2026 15:25
+b8aa2d9b-f7c3-4fe0-ae34-7d5fe8a4104a,pain.channel,premium,257.92,257.92,high,low,4,spaceship,,,29/09/2026 23:26
 06aabc2d-c976-4bc8-9cd7-f0e2b4f1d6c6,side.channel,premium,516.67,516.67,high,low,4,spaceship,,,27/09/2026 21:50
 b9b7fd88-bad4-47f2-8aca-d1bc17d62f1e,ungrateful.channel,available,12.98,16.48,medium,low,10,namecheap,,,11/09/2026 12:26
 331e7f86-79a8-46ce-96a6-eafa314ef263,macbook.channel,available,16.48,,high,high,7,namecheap,,,
 809ec1a6-b77a-4095-be65-a6f0198da10d,advertizer.channel,available,12.98,16.48,high,low,10,namecheap,,,17/09/2026 08:39
 a0dfdc25-7806-4f28-89e8-d610aaf23785,exam.channel,premium,648.7,648.7,high,low,4,namecheap,,,27/09/2026 03:51
 3820a9eb-a720-4ad6-b85a-1ae06fcb01f0,resemble.channel,available,10.55,10.55,high,low,8,spaceship,,,28/09/2026 20:53
-ad8e857f-ff92-453d-8acb-578df337de7e,facing.channel,available,16.48,,high,low,6,namecheap,,,
+ad8e857f-ff92-453d-8acb-578df337de7e,facing.channel,available,10.55,10.55,high,low,6,spaceship,,,29/09/2026 09:38
 5079a765-807f-4c15-90f7-67d172a38e20,adds.channel,premium,76.7,76.7,medium,low,4,namecheap,,,18/09/2026 14:32
 de9d2744-8f2b-4934-a0da-b2811c3fc0dd,soda.channel,premium,167.7,167.7,high,low,4,namecheap,,,25/09/2026 10:32
 a7ae2049-e136-47a5-999f-4bcd9e491c78,shit.channel,premium,167.7,167.7,high,medium,4,namecheap,,,22/09/2026 18:05
+79314ade-189b-4b5d-9246-aca5dd54cd73,paley.channel,available,10.55,10.55,medium,low,5,spaceship,,,29/09/2026 15:50
 24a6a667-e04b-49aa-988c-c7c83b794a14,etch.channel,available,16.48,,high,low,4,namecheap,,,
 7fcee5ca-9ec5-4644-b5aa-c1111af13317,ask.channel,premium,623.75,,high,medium,3,name.com,,,
+fd87ac58-7e20-4864-ae78-5dfc038f1be1,plumber.channel,premium,37.7,37.7,high,low,7,namecheap,,,29/09/2026 20:00
 89959954-94fc-4b4a-bec4-9b1a531d0af5,imitator.channel,available,12.98,16.48,medium,low,8,namecheap,,,19/09/2026 16:27
 6ff22003-c5d4-49a7-9c72-f89410ea51f1,environmentally.channel,available,16.48,,medium,low,15,namecheap,,,
 4a09ddc2-9165-43c6-a4da-50e60eab8570,spoilt.channel,available,12.98,16.48,medium,low,6,namecheap,,,10/08/2026 14:19
@@ -260,23 +277,28 @@ a7ae2049-e136-47a5-999f-4bcd9e491c78,shit.channel,premium,167.7,167.7,high,mediu
 e9f96c87-5cd4-46d0-bdb7-c99665f135f5,fayette.channel,available,10.55,10.55,medium,low,7,spaceship,,,27/09/2026 20:20
 247688d3-f49d-4230-96c3-ed9fc6357cc6,brimless.channel,available,12.98,16.48,medium,low,8,namecheap,,,11/08/2026 04:13
 fa91360c-94a5-4db7-8759-606876cf438b,butt.channel,premium,73.75,73.75,medium,low,4,name.com,,,09/08/2026 10:40
+7cd666d5-aef7-4c2b-98db-123995c82390,commissioned.channel,available,10.55,10.55,medium,low,12,spaceship,,,29/09/2026 23:15
 2088e970-ccc0-4c33-8734-11e9168e0dce,obstructed.channel,available,12.98,16.48,medium,low,10,namecheap,,,04/09/2026 00:05
 0d5cd246-be56-4ba7-a4ea-4d4e619315d6,cleave.channel,available,12.98,16.48,medium,low,6,namecheap,,,24/09/2026 15:43
+1c380f41-545a-4ff3-bd7f-756294d1add5,elinor.channel,available,10.55,10.55,medium,low,6,spaceship,,,29/09/2026 22:05
 c6cdf7ad-01f2-45c7-9f0e-6180410e66fc,tellurium.channel,available,12.98,16.48,medium,low,9,namecheap,,,20/09/2026 23:13
 978934d2-af30-4f92-b3d4-33b20916c1ea,ancylus.channel,available,12.98,16.48,medium,low,7,namecheap,,,19/09/2026 03:54
 f92ff062-54ab-4982-89f3-e6e740bba2be,bandy.channel,available,12.98,16.48,medium,low,5,namecheap,,,08/08/2026 11:45
+fdf943c8-8f6c-4c3e-9187-1f89dd1b3f0f,arabs.channel,available,10.81,10.81,medium,low,5,porkbun,,,29/09/2026 11:16
 2ae9dbc6-056f-4165-97ef-a61667ac35fb,incipient.channel,available,12.98,16.48,medium,low,9,namecheap,,,22/08/2026 01:14
 52c1ee02-6945-49a4-9966-fa19a3f098ff,hinder.channel,available,12.98,16.48,high,low,6,namecheap,,,24/09/2026 23:48
 f26b808c-256a-473c-a176-0a2ac251e12e,accelerate.channel,available,10.55,10.55,high,low,10,spaceship,,,29/09/2026 02:40
-0e97c771-d85d-4bcf-b1d5-0e4985782d07,mannerism.channel,available,12.98,16.48,medium,low,9,namecheap,,,17/09/2026 14:14
+0e97c771-d85d-4bcf-b1d5-0e4985782d07,mannerism.channel,available,12.98,16.48,high,low,9,namecheap,,,17/09/2026 14:14
 2ded67f1-7945-4caf-9041-71586a757473,cared.channel,available,12.98,16.48,medium,low,5,namecheap,,,25/09/2026 19:49
 af840d15-04da-4e90-81cd-878017b14e11,slyness.channel,available,12.98,16.48,medium,low,7,namecheap,,,13/08/2026 10:43
 e61766fd-1fbd-46d2-9399-785f67b60c41,bridgeable.channel,available,12.98,16.48,medium,low,10,namecheap,,,11/08/2026 04:00
 9a5a6188-fe1b-45f2-a4d2-f50de1a60fe7,neighbours.channel,available,12.98,16.48,medium,low,10,namecheap,,,18/09/2026 07:42
+dd187ea5-d1ee-43bd-a3fe-10087934b7ac,priced.channel,available,10.55,10.55,high,low,6,spaceship,,,30/09/2026 00:11
 c91509c6-aaef-4275-b6dc-db7809f5f972,kilometers.channel,available,10.55,10.55,medium,low,10,spaceship,,,28/09/2026 23:06
 7f85e50d-1882-45cc-9e32-470019f3778f,edmonton.channel,premium,76.7,76.7,high,low,8,namecheap,,,25/09/2026 22:33
 a05fe959-decc-454e-9d63-4f1a43f986d7,cba.channel,premium,61.27,61.27,high,low,3,spaceship,,,28/09/2026 21:48
-036f6aac-da87-4660-9698-1a8583adc68a,reconsider.channel,available,10.55,10.55,medium,low,10,spaceship,,,28/09/2026 20:52
+8cab6876-5204-47eb-bc19-d63e16c04003,susannah.channel,available,10.55,10.55,medium,low,8,spaceship,,,29/09/2026 04:06
+036f6aac-da87-4660-9698-1a8583adc68a,reconsider.channel,available,10.55,10.55,high,low,10,spaceship,,,28/09/2026 20:52
 fe58ac40-9519-44f5-afa9-becd9c1b72b2,nihility.channel,available,12.98,16.48,medium,low,8,namecheap,,,13/09/2026 06:35
 f91ec7bb-5678-4e8d-b6d9-67cd93f7d977,reminder.channel,premium,30.22,30.22,high,low,8,spaceship,,,28/09/2026 18:51
 26880908-c949-4824-9d6c-da74aaf73419,eurasian.channel,available,12.98,16.48,high,low,8,namecheap,,,17/08/2026 14:26
@@ -302,7 +324,8 @@ e04fe6c6-0b9d-4fc8-8333-bee675f823e5,aum.channel,premium,76.7,76.7,high,low,3,na
 894a1dbe-f87e-478e-857a-c872dd9301e1,fear.channel,premium,161.25,161.25,high,low,4,name.com,,,24/09/2026 12:06
 113a9e98-ac1a-4bcf-bc4f-914e1c1ba453,lame.channel,premium,36.25,36.25,high,low,4,name.com,,,13/08/2026 07:03
 9ce01d5b-0966-4e06-adbf-742228a18539,managing.channel,premium,73.75,,high,low,8,name.com,,,
-83db180c-7d11-4144-8d49-b4ab46ea8c7f,bantam.channel,available,12.98,16.48,medium,low,6,namecheap,,,08/08/2026 14:01
+83db180c-7d11-4144-8d49-b4ab46ea8c7f,bantam.channel,available,12.98,16.48,high,low,6,namecheap,,,08/08/2026 14:01
+dd963f8d-9749-4181-b462-253d8ce18e01,noi.channel,premium,61.27,61.27,high,low,3,spaceship,,,29/09/2026 21:37
 8b84dbf7-6b3a-4875-a7e3-694b989b9b34,applewood.channel,available,12.98,16.48,medium,low,9,namecheap,,,19/09/2026 21:44
 e15bb5e7-b529-4062-9f75-95a51a4b8ef5,clench.channel,available,19.99,19.99,medium,low,6,name.com,,,24/09/2026 15:33
 4a9cc267-b54b-4bdb-8dbf-885ff2eb25be,spent.channel,available,12.98,16.48,medium,low,5,namecheap,,,14/08/2026 14:53
@@ -310,24 +333,25 @@ e15bb5e7-b529-4062-9f75-95a51a4b8ef5,clench.channel,available,19.99,19.99,medium
 0353826d-e56e-4255-8106-778359e30c51,chicken.channel,premium,323.7,323.7,high,low,7,namecheap,,,23/09/2026 14:11
 b3f91088-f615-4efa-8b79-1e80f556d97f,borrow.channel,premium,36.25,,high,low,6,name.com,,,
 64a8439d-8aee-4c11-ba4b-376ff296af47,karen.channel,premium,167.7,167.7,high,low,5,namecheap,,,25/09/2026 08:08
-b6b94716-b729-4cc4-88fb-b1ddf3ad8999,antioch.channel,available,12.98,16.48,medium,low,7,namecheap,,,19/09/2026 12:29
+ac1471fa-bf43-4450-bd56-4f461ce6aa18,sia.channel,premium,133.72,133.72,high,low,3,spaceship,,,29/09/2026 09:25
+b6b94716-b729-4cc4-88fb-b1ddf3ad8999,antioch.channel,available,12.98,16.48,high,low,7,namecheap,,,19/09/2026 12:29
 30838e46-44c9-4a5d-afe7-2218626c6597,fifties.channel,available,12.98,16.48,high,low,7,namecheap,,,16/09/2026 12:10
 2c3cdd8f-b086-4923-917b-84f5ce4f6f0a,sexuality.channel,available,12.98,16.48,high,low,9,namecheap,,,28/09/2026 10:54
 3b0a4bd6-003f-4e03-9dbb-f246039e3319,magnate.channel,available,12.98,16.48,high,low,7,namecheap,,,23/09/2026 14:16
 b4f151ec-1d9f-4223-a2a3-19e17c510314,osborn.channel,available,12.98,16.48,high,low,6,namecheap,,,27/09/2026 07:58
 d5053cc2-f822-4cd9-af8d-939ddbdb3d0b,surgical.channel,premium,37.7,37.7,high,low,8,namecheap,,,11/09/2026 04:01
-bec3ea60-8229-4de4-a549-cf1be729c573,dive.channel,premium,161.25,,high,low,4,name.com,,,
+bec3ea60-8229-4de4-a549-cf1be729c573,dive.channel,premium,133.72,133.72,high,low,4,spaceship,,,29/09/2026 16:23
 7dec3f3a-2eb5-4c6d-9fce-3d266a9762e5,shepherd.channel,premium,30.22,30.22,high,low,8,spaceship,,,28/09/2026 03:05
 3ca3a4a1-ee13-46fb-9eaf-3aa99139d800,snaky.channel,available,12.98,16.48,medium,low,5,namecheap,,,10/09/2026 04:47
-d6c5f1c6-d63f-44cb-82f7-9d95e2d89580,elegantly.channel,available,12.98,16.48,medium,low,9,namecheap,,,14/09/2026 15:17
-f5de54fa-434b-476f-b5b6-fd9748aa2024,kilo.channel,premium,36.25,,high,low,4,name.com,,,
+d6c5f1c6-d63f-44cb-82f7-9d95e2d89580,elegantly.channel,available,12.98,16.48,high,low,9,namecheap,,,14/09/2026 15:17
+f5de54fa-434b-476f-b5b6-fd9748aa2024,kilo.channel,premium,32.18,32.18,high,low,4,porkbun,,,30/09/2026 01:16
 f9ad48c1-2ad0-4fd7-a2b3-60c9b49a7b66,bioethics.channel,available,12.98,16.48,high,low,9,namecheap,,,23/09/2026 17:56
 7b6e6fd8-3f03-46e1-b401-e27373b0759a,eviscerate.channel,available,12.98,16.48,medium,low,10,namecheap,,,17/08/2026 15:10
-4dcca1a3-d390-4a67-83c9-fe5583971c00,onside.channel,available,12.98,16.48,medium,low,6,namecheap,,,04/09/2026 15:17
+4dcca1a3-d390-4a67-83c9-fe5583971c00,onside.channel,available,12.98,16.48,high,low,6,namecheap,,,04/09/2026 15:17
 16920bbf-b64a-4313-ab73-410bfd0c0f26,evaporate.channel,available,16.48,,high,low,9,namecheap,,,
-0834d2cd-a708-4eba-bdfc-f3fef60f105e,motions.channel,available,12.98,16.48,medium,low,7,namecheap,,,18/09/2026 00:16
+0834d2cd-a708-4eba-bdfc-f3fef60f105e,motions.channel,available,12.98,16.48,high,low,7,namecheap,,,18/09/2026 00:16
 7066bd38-ebcc-4fe2-9aea-02cf81018a47,arame.channel,available,12.98,16.48,medium,low,5,namecheap,,,19/09/2026 23:56
-a00ae599-9566-4a90-af52-8970660543ec,genu.channel,available,12.98,16.48,medium,low,4,namecheap,,,20/09/2026 11:29
+a00ae599-9566-4a90-af52-8970660543ec,genu.channel,available,12.98,16.48,high,low,4,namecheap,,,20/09/2026 11:29
 6642a03d-4184-410e-90e9-cd82257ced3f,callous.channel,available,12.98,16.48,medium,low,7,namecheap,,,11/08/2026 14:30
 deeb6a07-2673-43fa-ae70-710f09f0864a,indelibly.channel,available,12.98,16.48,medium,low,9,namecheap,,,15/09/2026 07:53
 30f52c3f-b0bd-4e0e-b1d3-ee3463d6f67f,wrinkles.channel,available,12.98,16.48,medium,low,8,namecheap,,,16/09/2026 13:02
@@ -359,7 +383,7 @@ ae9482b8-a381-4195-846e-c7e2a100e642,ashlar.channel,available,12.98,16.48,high,l
 623e504b-40a2-4f48-a554-0eb1631e1a25,dawdler.channel,available,12.98,16.48,medium,low,7,namecheap,,,22/08/2026 18:40
 bde09cbe-3f7e-4c78-b84c-ca1d85b7dc83,click.channel,premium,648.7,648.7,high,medium,5,namecheap,,,24/09/2026 13:54
 ad1cd27f-3603-44f8-a598-81d4cc718384,valve.channel,premium,61.27,61.27,high,low,5,spaceship,,,28/09/2026 11:02
-64ea9eb0-b0a5-4cc4-a918-bc06b578e13a,avignon.channel,available,12.98,16.48,medium,low,7,namecheap,,,21/09/2026 09:35
+64ea9eb0-b0a5-4cc4-a918-bc06b578e13a,avignon.channel,available,12.98,16.48,high,low,7,namecheap,,,21/09/2026 09:35
 4b280a59-35ab-48c0-959b-1c2198203558,valiant.channel,available,12.98,16.48,high,low,7,namecheap,,,13/09/2026 00:55
 18ec7009-0619-46fe-95b3-ce3a2f82056e,attack.channel,premium,133.72,133.72,high,low,6,spaceship,,,28/09/2026 08:45
 823dc046-dbf4-40f8-a1c6-bdd731b0836e,antigua.channel,premium,37.7,37.7,high,low,7,namecheap,,,19/09/2026 14:32
@@ -369,11 +393,15 @@ e37256c2-8821-419b-a2c4-35c4de0162cc,accessory.channel,premium,30.22,30.22,high,
 ad4cd0bb-3d42-4b03-a4f7-aa6045a1de72,exhausted.channel,available,12.98,16.48,medium,low,9,namecheap,,,14/08/2026 14:43
 787c3403-2f06-4f1c-a436-52bca41bde2b,tyrol.channel,available,10.55,10.55,medium,low,5,spaceship,,,28/09/2026 20:40
 c4b44007-0486-45d3-9746-45c433d320f3,lowly.channel,available,12.98,16.48,medium,low,5,namecheap,,,08/08/2026 21:38
-fcac7656-8d53-4ff7-b137-9780ee9c765b,corrugated.channel,available,12.98,16.48,medium,low,10,namecheap,,,13/08/2026 02:13
+e18e268f-7117-4e02-9a37-4a171a540ea7,trait.channel,available,10.55,10.55,high,low,5,spaceship,,,29/09/2026 08:15
+6c578679-e51f-4dd0-a35b-aad57816fd7d,chapters.channel,available,10.55,10.55,high,low,8,spaceship,,,29/09/2026 11:10
+fcac7656-8d53-4ff7-b137-9780ee9c765b,corrugated.channel,available,12.98,16.48,high,low,10,namecheap,,,13/08/2026 02:13
 ebdabb00-cc2e-4836-b204-0f136b4106c3,penciled.channel,available,12.98,16.48,medium,low,8,namecheap,,,08/09/2026 13:55
 453cba24-4e5a-4f61-8186-e681f1daf74d,amberbell.channel,available,12.98,16.48,medium,low,9,namecheap,,,18/09/2026 16:32
+c6ad437f-c8ad-452a-9d9f-410df0817cd0,southport.channel,available,10.81,10.81,medium,low,9,porkbun,,,29/09/2026 04:35
 07146eb0-7097-4089-b36c-df01907223a8,cage.channel,premium,76.7,76.7,high,low,4,namecheap,,,22/09/2026 14:36
 a1c2c73b-d7d7-4fe7-865f-1076651733da,marino.channel,premium,37.7,37.7,high,low,6,namecheap,,,27/09/2026 04:14
+730a0b7d-4d30-4542-b61f-943db86a2bd3,fibers.channel,available,12.98,16.48,medium,low,6,namecheap,,,29/09/2026 10:34
 d7fa22d7-f22b-44f5-a9ec-cd7a7620c54d,blacksnake.channel,available,12.98,16.48,medium,low,10,namecheap,,,24/09/2026 01:28
 e574ee9a-3732-4a5e-a74f-3a68dbabd652,woozy.channel,available,12.98,16.48,medium,low,5,namecheap,,,14/08/2026 14:06
 661723ad-8b0a-4198-93bb-4f490ddd2a15,erse.channel,available,12.98,16.48,medium,low,4,namecheap,,,18/08/2026 19:28
@@ -385,22 +413,25 @@ de6f3d2d-a29b-4647-a3a1-4c332c972e8e,afterlife.channel,available,12.98,16.48,hig
 7f27e413-8020-4605-a314-8befcb4a41fd,unheard.channel,available,12.98,16.48,medium,low,7,namecheap,,,12/09/2026 12:10
 33de95e7-b7a4-49af-a148-d44361ccd63e,cognisance.channel,available,12.98,16.48,high,low,10,namecheap,,,21/09/2026 09:57
 2b68ed67-6d00-4f8b-b044-0b67bd178353,biaxal.channel,available,12.98,16.48,medium,low,6,namecheap,,,09/08/2026 18:46
-9ec6cff5-4469-424f-b1f8-e5a529215801,collision.channel,premium,36.25,,high,low,9,name.com,,,
+9ec6cff5-4469-424f-b1f8-e5a529215801,collision.channel,premium,30.22,30.22,high,low,9,spaceship,,,29/09/2026 10:17
 cde2d50e-b64d-4e22-b773-3104d84b51ac,swimming.channel,premium,167.7,167.7,high,low,8,namecheap,,,03/09/2026 12:48
+44d40e1d-a573-4af4-9f73-a3f8109647ad,sears.channel,available,10.55,10.55,high,low,5,spaceship,,,29/09/2026 04:28
 039827bf-9739-430e-8744-7ab33cf65cc7,eliot.channel,available,12.98,16.48,high,low,5,namecheap,,,25/09/2026 05:27
+eea534f7-2658-435d-a0a9-fdda4a67b375,interpreter.channel,available,10.55,10.55,high,low,11,spaceship,,,29/09/2026 08:27
 7d5a386e-84d3-44c8-b87e-3ff9b535fcce,train.channel,premium,516.67,516.67,high,low,5,spaceship,,,28/09/2026 19:31
 2ffe6072-c5e2-4b3f-8c9b-8bd2ad1c3825,presidential.channel,premium,30.22,30.22,high,low,12,spaceship,,,27/09/2026 17:17
 ad89b410-ea3f-4770-8058-d7817ace94b8,inevitable.channel,available,12.98,16.48,high,low,10,namecheap,,,25/09/2026 09:24
 db1eda53-178e-45ff-bdd6-efbd9e20400d,teddy.channel,premium,76.7,76.7,high,low,5,namecheap,,,24/09/2026 14:16
 485fe93a-a48c-4baa-ab48-df62b6427fa4,ruby.channel,premium,323.7,323.7,high,medium,4,namecheap,,,22/09/2026 22:32
 547e99ff-83b5-4f46-9e81-69dcc18a5a46,netted.channel,available,12.98,16.48,medium,low,6,namecheap,,,03/09/2026 16:02
+f3b597ac-bb44-4c3b-9ea6-4b14667808c1,zola.channel,available,10.55,10.55,high,low,4,spaceship,,,29/09/2026 12:10
 96623c8c-e8df-4d5b-b810-316191f9af12,dateable.channel,available,19.99,19.99,medium,low,8,name.com,,,13/08/2026 18:38
 487b6491-4e1e-42b1-aa0e-fbdbbc2cb36e,gabrielle.channel,available,10.55,10.55,medium,low,9,spaceship,,,28/09/2026 21:50
 f2460255-8224-4ee9-978f-450c877b0645,electrical.channel,premium,161.25,161.25,high,low,10,name.com,,,16/08/2026 02:39
 610fd7a8-e338-487c-b75b-70c3c4a50392,xlviii.channel,available,12.98,16.48,medium,low,6,namecheap,,,
 0d1ae07b-9b92-4738-a853-98b17c3be72b,tawdry.channel,available,12.98,16.48,medium,low,6,namecheap,,,12/08/2026 03:29
 605a4adc-bbec-4ee9-b065-29c3c94c8eb5,annexe.channel,available,12.98,16.48,high,low,6,namecheap,,,19/09/2026 10:24
-b6330056-4adf-41dd-b6b7-ae7ad81fbc6b,draped.channel,available,12.98,16.48,medium,low,6,namecheap,,,14/08/2026 18:23
+b6330056-4adf-41dd-b6b7-ae7ad81fbc6b,draped.channel,available,12.98,16.48,high,low,6,namecheap,,,14/08/2026 18:23
 65c0d2a7-4183-4723-a2fc-a444c6792309,germicide.channel,available,12.98,16.48,medium,low,9,namecheap,,,
 816b4a53-9711-41fe-8b70-8a1050f1e7d4,len.channel,premium,73.75,73.75,medium,low,3,name.com,,,27/09/2026 01:38
 7a12221f-ab64-49d6-bf7e-900dfeee0c8d,blacksburg.channel,available,12.98,16.48,medium,low,10,namecheap,,,24/09/2026 02:57
@@ -412,7 +443,7 @@ ce179276-2c78-4ac4-ae15-465fea959602,chiang.channel,available,12.98,16.48,medium
 8ba54ae0-e99b-49cf-a57e-08b2baf4687c,gonzalez.channel,premium,37.7,37.7,high,low,8,namecheap,,,25/09/2026 16:13
 5dab7179-9189-40c1-99a9-69c572c400f4,univocal.channel,available,12.98,16.48,medium,low,8,namecheap,,,12/09/2026 09:15
 812f80e4-f417-46f2-aa84-e5304a040413,cupboard.channel,available,12.98,16.48,high,low,8,namecheap,,,24/09/2026 15:58
-b61c790c-495b-4aa4-ab24-3e055afca2d9,corridor.channel,available,16.48,,high,low,8,namecheap,,,
+b61c790c-495b-4aa4-ab24-3e055afca2d9,corridor.channel,available,12.98,16.48,high,low,8,namecheap,,,29/09/2026 11:39
 7386d6f8-cf52-4d75-8c71-4dcc3f71d8d3,sorts.channel,available,12.98,16.48,medium,low,5,namecheap,,,27/09/2026 10:13
 12c2396d-1fff-4a70-a6de-df208b6e42b6,gari.channel,available,12.98,16.48,high,low,4,namecheap,,,23/09/2026 22:55
 ab5f6cfb-c1f8-4b0f-acbe-65dcb78c0346,natality.channel,available,12.98,16.48,medium,low,8,namecheap,,,23/09/2026 21:04
@@ -422,10 +453,13 @@ bf5ce0d5-25d9-4613-ac22-d80b1f10c6ba,arrivals.channel,available,12.98,16.48,medi
 f90655e0-17fe-408b-9bb7-105a72266e8a,docket.channel,available,12.98,16.48,high,low,6,namecheap,,,17/09/2026 17:03
 4d620cf3-186b-4489-80ae-b7fdac723b47,stages.channel,premium,76.7,76.7,high,low,6,namecheap,,,16/09/2026 12:11
 e401f11c-6f61-4fd8-b432-8ea379fc3300,endwise.channel,available,12.98,16.48,medium,low,7,namecheap,,,14/09/2026 15:37
+9b23d377-b593-4740-ba36-e662983c3e63,modernizing.channel,available,12.98,16.48,high,low,11,namecheap,,,29/09/2026 14:57
+b6f686a0-f519-453c-8983-55e3d6aa697e,strive.channel,premium,32.18,32.18,high,low,6,porkbun,,,29/09/2026 18:47
 bf3f5a4c-f741-4c38-9b1f-d400cd68b3b4,delirium.channel,available,12.98,16.48,high,low,8,namecheap,,,24/09/2026 21:40
 a0478b96-c597-4d15-bcc6-66ce2eb14ddd,hick.channel,available,12.98,16.48,medium,low,4,namecheap,,,11/08/2026 09:44
 6f0105f2-9792-4da1-aa1b-acf500b7da32,axial.channel,premium,37.7,37.7,high,low,5,namecheap,,,22/09/2026 15:33
-eb25cb51-aded-426d-96c4-a0d4d1af7092,donation.channel,premium,73.75,,high,low,8,name.com,,,
+eb25cb51-aded-426d-96c4-a0d4d1af7092,donation.channel,premium,61.27,61.27,high,low,8,spaceship,,,29/09/2026 16:32
+5bed7259-543e-4145-94b5-a3a61472577a,vinson.channel,available,12.98,16.48,medium,low,6,namecheap,,,29/09/2026 12:24
 a0c53cb9-2781-4c6d-9378-9b43da7e2264,optionally.channel,available,10.55,10.55,medium,low,10,spaceship,,,28/09/2026 16:29
 3ddf921e-325e-4a8a-8a2d-6717bd820135,unsocial.channel,available,12.98,16.48,medium,low,8,namecheap,,,12/09/2026 20:11
 e6340e60-89ce-4a49-bc54-dcd038cb6be6,headache.channel,available,12.98,16.48,high,low,8,namecheap,,,24/09/2026 13:37
@@ -436,7 +470,7 @@ ef9ff787-fab7-480c-a3ff-58636a479e0b,reprints.channel,available,10.55,10.55,medi
 6aee9bb5-31fc-4a64-bb7a-e090959bf6a0,resting.channel,available,10.55,10.55,high,low,7,spaceship,,,28/09/2026 04:49
 1275b452-0440-4f51-bd6d-355870a2bd6d,starchy.channel,available,12.98,16.48,medium,low,7,namecheap,,,11/08/2026 07:29
 18e88968-830b-4b59-a558-8f238a5e161a,panda.channel,premium,648.7,648.7,high,medium,5,namecheap,,,28/09/2026 19:27
-eee3af96-1385-4a75-85fd-b985a292a4af,restrained.channel,available,12.98,16.48,medium,low,10,namecheap,,,20/08/2026 20:43
+eee3af96-1385-4a75-85fd-b985a292a4af,restrained.channel,available,12.98,16.48,high,low,10,namecheap,,,20/08/2026 20:43
 12c82e2d-e279-4de4-9dc9-b9ffb528ce63,personals.channel,available,12.98,16.48,medium,low,9,namecheap,,,08/09/2026 05:02
 26088086-6367-455b-b954-bd2a25a45207,dickey.channel,available,12.98,16.48,medium,low,6,namecheap,,,14/08/2026 06:29
 db3930aa-f4cf-485f-9d01-137928ec70ab,shack.channel,available,12.98,16.48,high,low,5,namecheap,,,24/09/2026 23:26
@@ -446,12 +480,13 @@ e9472938-93fb-4d8a-80d3-e268bfc42274,bulla.channel,available,12.98,16.48,medium,
 1150524d-1f94-4275-aa77-9e57adf24362,appanage.channel,available,12.98,16.48,medium,low,8,namecheap,,,19/09/2026 16:11
 7bb84e41-1cbc-4107-b1d7-6e0d58a67479,allusion.channel,available,19.99,19.99,high,low,8,name.com,,,18/09/2026 12:15
 bc13854f-d62d-44c6-8fdb-4f7ecc127aa1,apron.channel,premium,37.7,37.7,high,low,5,namecheap,,,19/09/2026 22:32
-7bce6885-7e6f-49b0-b4a4-9cf807bdbf4c,xxiii.channel,available,12.98,16.48,medium,low,5,namecheap,,,
+7bce6885-7e6f-49b0-b4a4-9cf807bdbf4c,xxiii.channel,available,12.98,16.48,high,low,5,namecheap,,,
+05e28c3f-7e04-4c12-887b-140c8c809e57,sank.channel,available,10.55,10.55,medium,low,4,spaceship,,,29/09/2026 16:38
 b58f595e-3958-4e45-afab-6cd76c7c6841,sang.channel,premium,76.7,76.7,high,low,4,namecheap,,,18/09/2026 20:03
 e6e0e5cc-c262-40e6-83a3-38d149a351de,spate.channel,available,12.98,16.48,high,low,5,namecheap,,,25/08/2026 00:44
 0e81e4d5-df5f-4f24-8a51-1c67a068ebf0,sudbury.channel,available,10.55,10.55,medium,low,7,spaceship,,,28/09/2026 06:48
 f455b0c5-37c1-462b-9e3d-14aa0d78d18a,mexicans.channel,available,12.98,16.48,medium,low,8,namecheap,,,18/09/2026 23:08
-02133952-2607-4243-82cb-5eb9703c17d1,actively.channel,available,10.55,10.55,medium,low,8,spaceship,,,28/09/2026 11:44
+02133952-2607-4243-82cb-5eb9703c17d1,actively.channel,available,10.55,10.55,high,low,8,spaceship,,,28/09/2026 11:44
 1ead1720-c010-4110-a44b-354e6708a739,austrian.channel,premium,37.7,37.7,high,low,8,namecheap,,,22/09/2026 13:38
 4fbea7fa-5a9b-425c-a46a-92c3ca96e271,christine.channel,premium,30.22,30.22,high,low,9,spaceship,,,27/09/2026 19:02
 a8500800-a3ec-4ba3-a576-93cbbd220b36,vista.channel,premium,323.7,323.7,high,medium,5,namecheap,,,29/09/2026 01:48
@@ -465,9 +500,10 @@ d1b9920e-42fd-4d5a-a801-f9282c32bc8c,believer.channel,available,12.98,16.48,high
 f69aff82-953d-45cd-97c9-0a379e70f303,visored.channel,available,12.98,16.48,medium,low,7,namecheap,,,13/09/2026 06:15
 a8f63127-a704-430d-a2f6-46778de01ac7,dominion.channel,premium,37.7,37.7,high,low,8,namecheap,,,24/09/2026 23:09
 4e481442-6e33-419a-9d96-5a6b1efc98b9,mendelian.channel,available,12.98,16.48,medium,low,9,namecheap,,,24/08/2026 20:06
-219c9a6a-9242-4c57-ac97-e1f98865b63f,email.channel,premium,1248.75,,high,medium,6,name.com,,,
+219c9a6a-9242-4c57-ac97-e1f98865b63f,email.channel,premium,1298.7,1298.7,high,medium,6,namecheap,,,29/09/2026 17:24
 4cbc9d86-6bf0-4c09-8415-aefcc945541d,rugose.channel,available,12.98,16.48,high,medium,6,namecheap,,,09/09/2026 19:20
 8665b8eb-d19b-4220-89ea-62a0150d0c02,sorrowful.channel,available,12.98,16.48,medium,low,9,namecheap,,,10/09/2026 14:37
+3059c685-0b0a-4035-a3a0-fbab9f5521b7,slapped.channel,available,10.55,10.55,low,low,7,spaceship,,,29/09/2026 23:39
 df39846b-8cd7-4321-9d96-b3d4ca2fc9bb,clarkson.channel,available,12.98,16.48,medium,low,8,namecheap,,,27/09/2026 01:50
 5bd902d5-6563-46a3-a2dc-329fe6792e77,assailant.channel,available,12.98,16.48,medium,low,9,namecheap,,,17/09/2026 17:42
 d2c99b8c-30a5-4af4-af15-af98d9781f16,banjo.channel,premium,37.7,37.7,high,low,5,namecheap,,,22/09/2026 02:11
@@ -479,11 +515,12 @@ ba141e2c-586b-4b4d-9d2c-37156ae37de6,stance.channel,premium,30.22,30.22,high,low
 6e1fcb6b-7b21-48d8-99cc-6e92448667c1,mortuary.channel,available,12.98,16.48,medium,low,8,namecheap,,,25/08/2026 06:40
 0e5d7644-a57c-460e-ae76-5f0cb85eae78,dominant.channel,premium,36.25,36.25,high,low,8,name.com,,,14/08/2026 15:41
 824fa532-5e4c-4398-91a3-1602c7c046b0,luther.channel,premium,37.7,37.7,high,low,6,namecheap,,,25/09/2026 23:29
-a1aa4b95-2ea1-4b66-92df-8f6d864b4d0d,groves.channel,available,16.48,,high,low,6,namecheap,,,
+a1aa4b95-2ea1-4b66-92df-8f6d864b4d0d,groves.channel,available,12.98,16.48,high,low,6,namecheap,,,29/09/2026 21:37
 de293910-8fd6-45c5-b4ff-31f73250140d,quaggy.channel,available,12.98,16.48,medium,low,6,namecheap,,,10/08/2026 17:10
 655ed684-082c-4d92-8fc0-c4a2fdf2ac1e,flex.channel,premium,323.7,323.7,high,medium,4,namecheap,,,23/09/2026 07:41
 62d52d24-a5fb-4778-84ea-74b5a47efcbc,receiver.channel,premium,30.22,30.22,high,low,8,spaceship,,,28/09/2026 10:40
 1e14ba54-1a64-45e4-9364-44caf24bba2e,herrick.channel,available,12.98,16.48,medium,low,7,namecheap,,,29/09/2026 01:17
+b0248197-0b75-4d49-adb9-499cf9d08e26,torpedoes.channel,available,10.81,10.81,low,low,9,porkbun,,,29/09/2026 11:10
 6176235b-3c49-491f-9b1f-92c1e51e1b76,approved.channel,premium,161.25,161.25,high,low,8,name.com,,,06/08/2026 09:20
 68ece2f0-137d-4c77-b158-5b05aa16a0ca,ashby.channel,available,10.55,10.55,medium,low,5,spaceship,,,28/09/2026 16:37
 0aecfbc8-42d8-4535-9b49-c825a0f97c26,moravian.channel,available,12.98,16.48,high,low,8,namecheap,,,25/08/2026 06:14
@@ -497,14 +534,15 @@ c364e110-74e3-4a82-ae77-640cbe6b0ec5,meagre.channel,available,12.98,16.48,medium
 48bf6952-e252-41d5-a11c-7fa7753fabd6,liquor.channel,premium,133.72,133.72,high,low,6,spaceship,,,29/09/2026 03:40
 6d0c4fe9-ba24-4a57-b514-dce2e24c2ba3,araneae.channel,available,12.98,16.48,medium,low,7,namecheap,,,20/09/2026 00:06
 99e8fffc-eabb-48fc-ac94-4f85675322da,bryn.channel,available,10.55,10.55,medium,low,4,spaceship,,,28/09/2026 07:45
-30e2cf35-a59a-4ace-9c3b-99d4fc1bf785,attained.channel,available,12.98,16.48,medium,low,8,namecheap,,,07/08/2026 15:07
+30e2cf35-a59a-4ace-9c3b-99d4fc1bf785,attained.channel,available,12.98,16.48,high,low,8,namecheap,,,07/08/2026 15:07
 7f38aca3-45ef-41df-b8a7-3fefa31583e0,surly.channel,available,12.98,16.48,medium,low,5,namecheap,,,11/09/2026 04:06
-3976969b-43f7-4970-abda-fdef1dc9f924,bentham.channel,available,12.98,16.48,medium,low,7,namecheap,,,23/09/2026 08:40
+3976969b-43f7-4970-abda-fdef1dc9f924,bentham.channel,available,12.98,16.48,high,low,7,namecheap,,,23/09/2026 08:40
+0d6b77ad-e124-426b-845c-1906d5cab9a7,esteban.channel,available,12.98,16.48,high,low,7,namecheap,,,29/09/2026 17:38
 dfb75510-cef8-4a25-90ee-71ba49c882df,counterfeits.channel,available,12.98,16.48,low,low,12,namecheap,,,19/09/2026 21:40
 040d007c-5b07-4960-a023-3238d5e89853,puppet.channel,premium,,,high,low,6,,,,28/09/2026 02:20
 75f13bc4-3d66-4187-8096-5aa5407f9c50,bedsore.channel,available,12.98,16.48,medium,low,7,namecheap,,,22/09/2026 23:40
 bea6bf84-f0a2-4173-bf9e-7f9c39acdd6c,robin.channel,premium,257.92,257.92,high,low,5,spaceship,,,28/09/2026 21:00
-e4dc82db-8ecd-42ce-812d-3d47b5ce3508,gaza.channel,premium,37.7,37.7,medium,low,4,namecheap,,,25/09/2026 06:23
+e4dc82db-8ecd-42ce-812d-3d47b5ce3508,gaza.channel,premium,37.7,37.7,high,low,4,namecheap,,,25/09/2026 06:23
 0caa7e51-91c1-466a-adce-ef5f2efcf17d,heterodox.channel,available,12.98,16.48,medium,low,9,namecheap,,,14/08/2026 12:37
 d57ceb84-c701-4a15-9742-11bc0f9437ce,possibility.channel,available,12.98,16.48,high,low,11,namecheap,,,25/09/2026 16:40
 b84f9663-1129-4914-a0dc-0716f01dfb43,beltway.channel,available,12.98,16.48,high,low,7,namecheap,,,23/09/2026 07:15
@@ -512,7 +550,7 @@ b84f9663-1129-4914-a0dc-0716f01dfb43,beltway.channel,available,12.98,16.48,high,
 aabab2e4-216c-434a-9f90-edb27255921b,thresher.channel,available,12.98,16.48,medium,low,8,namecheap,,,18/09/2026 13:23
 ce38de2e-02d8-40de-b77c-a4a8872651ec,recruiting.channel,premium,30.22,30.22,high,low,10,spaceship,,,28/09/2026 21:30
 a37cee4e-8d91-4394-8ff7-211661ec1d32,adenauer.channel,available,12.98,16.48,medium,low,8,namecheap,,,17/09/2026 07:24
-0409a306-49ef-4c6d-8030-9d8e40af0c93,leaf.channel,premium,311.25,,high,low,4,name.com,,,
+0409a306-49ef-4c6d-8030-9d8e40af0c93,leaf.channel,premium,257.92,257.92,high,low,4,spaceship,,,29/09/2026 19:38
 6d88a96b-44df-4728-b475-bd18dda56dc3,stippled.channel,available,12.98,16.48,medium,low,8,namecheap,,,14/08/2026 16:36
 10bf88b0-ec64-4fe8-ad4c-6d3d91d982db,fitzpatrick.channel,available,12.98,16.48,medium,low,11,namecheap,,,27/09/2026 07:56
 0d6c120e-088f-49ef-9289-e86b8d63212c,plier.channel,available,16.48,,medium,low,5,namecheap,,,
@@ -520,12 +558,14 @@ a37cee4e-8d91-4394-8ff7-211661ec1d32,adenauer.channel,available,12.98,16.48,medi
 812046d2-e7a3-4846-9b72-204886ea8738,reports.channel,premium,323.7,323.7,high,low,7,namecheap,,,18/09/2026 16:26
 e197c000-3579-46d4-b737-5bb68951df67,intention.channel,premium,36.25,36.25,high,low,9,name.com,,,22/08/2026 07:55
 5a46515a-40dc-4f58-a1f7-4dd813959768,jolson.channel,available,12.98,16.48,medium,low,6,namecheap,,,18/09/2026 01:21
+7dc6f3b1-1355-478e-a8ab-fe013dd38403,establishing.channel,available,10.55,10.55,high,low,12,spaceship,,,29/09/2026 21:01
+a90a53ea-beca-4d5c-a6e9-a03db04c1fa1,burner.channel,premium,30.22,30.22,high,low,6,spaceship,,,29/09/2026 11:49
 e16da404-ade2-4eb9-8938-ce51946af22e,purpose.channel,premium,167.7,167.7,high,low,7,namecheap,,,25/09/2026 09:59
 5d4a5805-7c98-4595-8b42-321368d5dde4,bewitched.channel,available,12.98,16.48,medium,low,9,namecheap,,,09/08/2026 18:17
 47fe969b-7dca-4d4b-994c-9341e2151183,prisms.channel,available,12.98,16.48,medium,low,6,namecheap,,,21/09/2026 00:27
 ce401e39-f3e3-425e-be74-f3f46f9fa8bd,cherry.channel,premium,323.7,323.7,high,low,6,namecheap,,,22/09/2026 22:25
-2a5fb828-be48-4eab-a056-90c3dbe22207,resistive.channel,available,12.98,16.48,medium,low,9,namecheap,,,09/09/2026 15:23
-99c4708d-78d1-43b9-9599-79d9abec45a4,fist.channel,available,16.48,,high,low,4,namecheap,,,
+2a5fb828-be48-4eab-a056-90c3dbe22207,resistive.channel,available,12.98,16.48,high,low,9,namecheap,,,09/09/2026 15:23
+99c4708d-78d1-43b9-9599-79d9abec45a4,fist.channel,available,10.81,10.81,high,low,4,porkbun,,,29/09/2026 09:58
 dc5e7be0-d216-4e58-b81c-10114a1cdd09,reliant.channel,available,12.98,16.48,high,low,7,namecheap,,,09/09/2026 13:35
 2238c1ca-1cd1-4d20-818e-da1d31326f8c,realizable.channel,available,12.98,16.48,high,low,10,namecheap,,,21/09/2026 15:51
 3df066cd-46ac-4d3b-86fa-e50d25364437,bph.channel,premium,76.7,76.7,high,low,3,namecheap,,,23/09/2026 08:07
@@ -534,6 +574,8 @@ eb4d80db-5a83-47f3-b414-02a3d4bc09a7,finish.channel,premium,167.7,167.7,high,low
 952768f3-97ce-4c8c-a2bb-d0eada7bbf26,aesthetic.channel,premium,76.7,76.7,high,low,9,namecheap,,,21/09/2026 21:10
 aa313931-1c4d-4fa0-a669-bbea93d20649,lunched.channel,available,19.99,19.99,medium,low,7,name.com,,,21/09/2026 04:17
 62fce904-7f70-406b-8b2f-c74410f496b4,bearnaise.channel,available,12.98,16.48,medium,low,9,namecheap,,,22/09/2026 21:23
+dc8b467d-4416-4c3f-9305-605b3d7d738c,thriller.channel,available,10.55,10.55,high,low,8,spaceship,,,29/09/2026 14:04
+404f2a9f-3089-45f2-b9b8-2de91c15ebc6,yung.channel,available,12.98,16.48,high,low,4,namecheap,,,29/09/2026 22:41
 0db2b30f-9736-4590-a7d6-f4e4dc22e960,steeply.channel,available,12.98,16.48,medium,low,7,namecheap,,,16/09/2026 06:59
 c067adb8-8947-4d3d-87bf-ffe2c145ec0c,anura.channel,available,12.98,16.48,medium,low,5,namecheap,,,19/09/2026 15:53
 0738a566-7a4d-40da-8035-efc5494376cf,mcmahon.channel,available,12.98,16.48,high,low,7,namecheap,,,25/09/2026 21:50
@@ -545,17 +587,20 @@ e8e6146e-f140-4171-85d6-931bdd614de4,fishy.channel,available,12.98,16.48,high,lo
 a27e8fc2-0ce7-4ff4-9e1c-b8de7178d10a,backpack.channel,premium,61.27,61.27,high,low,8,spaceship,,,29/09/2026 00:17
 1e3ed2b8-cb84-429a-8318-b28b2a01f211,fatal.channel,premium,73.75,73.75,high,low,5,name.com,,,23/09/2026 12:24
 25cc9bec-0a4b-470b-a919-b76e87ed7889,muzzy.channel,available,12.98,16.48,medium,low,5,namecheap,,,10/08/2026 16:24
-c98dde3e-75f5-4de2-a684-af8563fc9134,tort.channel,premium,37.7,37.7,medium,low,4,namecheap,,,24/09/2026 15:10
+c98dde3e-75f5-4de2-a684-af8563fc9134,tort.channel,premium,37.7,37.7,high,low,4,namecheap,,,24/09/2026 15:10
+df0d6cb0-cca0-48c9-9723-a8bb12cba384,eustace.channel,available,12.98,16.48,medium,low,7,namecheap,,,29/09/2026 15:27
 61a1e527-be36-419b-a5da-2cae8bfb633f,nostrils.channel,available,16.48,,medium,low,8,namecheap,,,
 78c61392-8877-4a49-939c-f350058b921d,impudent.channel,available,12.98,16.48,medium,low,8,namecheap,,,18/08/2026 08:23
 9c517166-86cd-400a-b61c-7d9e074fa25a,inbound.channel,premium,36.25,36.25,high,low,7,name.com,,,22/08/2026 00:41
 2de1da58-d8cf-437f-96bf-4dc869f82598,edu.channel,premium,516.67,516.67,medium,medium,3,spaceship,,,28/09/2026 23:17
 72aa0d1e-a273-490b-89e8-ba63de704b1a,abilities.channel,available,12.98,16.48,high,low,9,namecheap,,,17/09/2026 04:45
 0d215286-78b3-4124-8f70-f9ffea54507a,unicorns.channel,available,16.48,,high,low,8,namecheap,,,
+ff95f3e1-17be-4c84-8c71-673897474960,humming.channel,available,12.98,16.48,high,low,7,namecheap,,,29/09/2026 07:18
 f1448182-be21-4127-93f9-23b9d628a7db,navarre.channel,available,10.55,10.55,medium,low,7,spaceship,,,27/09/2026 19:38
 e19494a2-0b50-456e-94d1-c6d4936c6d60,honour.channel,available,12.98,16.48,high,low,6,namecheap,,,16/09/2026 22:47
 cdc18e36-e2f6-485a-83a0-c5d9c76bd045,recoil.channel,available,12.98,16.48,high,low,6,namecheap,,,21/09/2026 15:32
 334e930c-d8a9-4521-8533-04bc4bb03685,sofia.channel,premium,323.7,323.7,high,medium,5,namecheap,,,24/09/2026 11:03
+87e0d3f9-5017-4723-86eb-303ebbd47da6,marbles.channel,available,10.55,10.55,high,low,7,spaceship,,,29/09/2026 07:32
 5cee6fc8-f493-4ee2-944d-d9cb12fa771c,boards.channel,premium,76.7,76.7,high,low,6,namecheap,,,29/09/2026 03:05
 6f4612ba-ab36-4905-84e6-5626a2964ae6,completely.channel,available,12.98,16.48,high,low,10,namecheap,,,22/09/2026 00:16
 9882b625-1f89-488b-8ba8-167c2b47be5e,wonderful.channel,premium,167.7,167.7,high,low,9,namecheap,,,25/09/2026 00:23
@@ -572,21 +617,27 @@ a66a97fa-18d1-4536-a96b-f0087958bbab,gooey.channel,available,12.98,16.48,high,lo
 a8c701ac-b889-4484-8d72-66b1ce923236,boiling.channel,available,12.98,16.48,high,low,7,namecheap,,,14/09/2026 00:51
 6a0a9d9f-12e6-466a-8371-609b9a656f66,matthews.channel,available,12.98,16.48,high,low,8,namecheap,,,25/09/2026 19:36
 6f29c5bf-e0b2-4592-8a63-a9d093b9b70d,dendritic.channel,available,12.98,16.48,medium,low,9,namecheap,,,14/08/2026 01:48
+609ad396-034c-4708-89c9-4545ded11aff,illustrious.channel,available,10.55,10.55,high,low,11,spaceship,,,29/09/2026 21:10
 7b7c1a98-142f-4ea2-a891-83cab05aa386,repairs.channel,premium,61.27,61.27,medium,low,7,spaceship,,,28/09/2026 18:11
 fae1c9df-a300-4427-b5e1-137e779acf2f,examine.channel,premium,36.25,,high,low,7,name.com,,,
 150cbb02-c84f-4a61-a1a6-9c656149fa54,anolis.channel,available,12.98,16.48,medium,low,6,namecheap,,,19/09/2026 11:23
 0aca1944-efa8-463a-86d0-141711376427,chased.channel,available,12.98,16.48,high,low,6,namecheap,,,27/09/2026 08:31
+370f6421-6c21-41c4-a122-d0c741124be0,cui.channel,premium,167.7,167.7,high,low,3,namecheap,,,29/09/2026 15:08
+2e9b1578-08b6-4ad7-ba2a-b90c9f5b1a18,convey.channel,available,10.55,10.55,high,low,6,spaceship,,,29/09/2026 06:20
 e7f4f7e8-499e-4181-8962-7e6522d94bf7,downsizing.channel,available,12.98,16.48,medium,low,10,namecheap,,,24/09/2026 23:41
 880a65d8-fd59-4cde-baf5-1a3fb03f815e,duple.channel,available,12.98,16.48,medium,low,5,namecheap,,,14/08/2026 20:37
+97178c93-d60b-464d-b41b-0cf57dfb3d06,valentino.channel,premium,61.27,61.27,high,high,9,spaceship,,,29/09/2026 21:29
 4af11900-d53a-4898-ae36-fafd23d4a4b1,accepted.channel,premium,37.7,37.7,high,low,8,namecheap,,,21/09/2026 15:25
+b9fb5cb4-7316-4128-85bb-2b0c3ba8614e,blindness.channel,available,10.81,10.81,high,low,9,porkbun,,,29/09/2026 17:58
 9821af8a-ee72-4878-a2c7-40c7e4119d07,wyeth.channel,available,12.98,16.48,medium,low,5,namecheap,,,19/09/2026 04:48
 3cd605ea-7f97-4324-8fcb-eb70d856b1a0,carolyn.channel,available,12.98,16.48,high,low,7,namecheap,,,28/09/2026 16:28
 c64786f8-7322-4bbe-a8f4-8e24bed0f689,infield.channel,available,12.98,16.48,high,low,7,namecheap,,,22/09/2026 10:07
+6e1a945a-f275-4b58-9b7d-2520d286f804,naples.channel,premium,61.27,61.27,medium,low,6,spaceship,,,29/09/2026 07:39
 2a4db9d3-de64-44d1-9069-6ea04fa21e36,godlike.channel,available,12.98,16.48,high,low,7,namecheap,,,20/08/2026 16:06
-6107c6be-b13a-4579-9fd7-55c01342a8fa,eyewitness.channel,available,16.48,,high,low,10,namecheap,,,
+6107c6be-b13a-4579-9fd7-55c01342a8fa,eyewitness.channel,available,10.55,10.55,high,low,10,spaceship,,,29/09/2026 18:49
 3ad1ccf8-25c2-41cf-b579-c6182aa1d1ab,outflank.channel,available,12.98,16.48,medium,low,8,namecheap,,,09/08/2026 17:48
-31d11640-413c-4162-a138-788c0f1f64fe,gao.channel,premium,76.7,76.7,medium,low,3,namecheap,,,25/09/2026 06:16
-fd9791a2-f1b9-4bc3-a550-6315c2f63b65,mother.channel,premium,623.75,,high,low,6,name.com,,,
+31d11640-413c-4162-a138-788c0f1f64fe,gao.channel,premium,76.7,76.7,high,low,3,namecheap,,,25/09/2026 06:16
+fd9791a2-f1b9-4bc3-a550-6315c2f63b65,mother.channel,premium,516.67,516.67,high,low,6,spaceship,,,29/09/2026 19:00
 ee7413f2-59b4-4e69-9ebc-bb3d5cdbbf60,reese.channel,premium,37.7,37.7,high,low,5,namecheap,,,27/09/2026 20:02
 0ab60763-3680-4919-9218-13b837529522,squiffy.channel,available,12.98,16.48,low,low,7,namecheap,,,09/08/2026 16:38
 5e031bd3-4f07-4688-b5c8-31d3646cd162,via.channel,premium,516.67,516.67,high,medium,3,spaceship,,,28/09/2026 15:38
@@ -596,6 +647,7 @@ f8ef95f9-97a5-4f2a-8528-cb5605995f41,smashed.channel,available,12.98,16.48,mediu
 c5f85de4-a4b4-4f74-842d-251424ac8303,approached.channel,available,12.98,16.48,medium,low,10,namecheap,,,17/09/2026 16:13
 e72bb9a8-4f5d-466a-a157-5c328b620b72,maxine.channel,available,10.55,10.55,medium,low,6,spaceship,,,28/09/2026 22:02
 635b03a4-9216-4f48-ab0f-2a7ab66dff9e,headfirst.channel,available,12.98,16.48,medium,low,9,namecheap,,,21/08/2026 01:52
+c32174d2-bdd6-443a-bd11-de25419b61f4,shanghai.channel,premium,133.72,133.72,high,low,8,spaceship,,,29/09/2026 08:03
 849b66d8-c566-436e-8f06-a0dbeef98657,triangle.channel,premium,133.72,133.72,high,low,8,spaceship,,,28/09/2026 09:33
 7ea5ce3d-c017-459c-9ee2-c53c7ef25b93,dam.channel,premium,133.72,133.72,high,low,3,spaceship,,,29/09/2026 00:35
 a625ba82-7fe1-472c-81b6-131111795842,befitting.channel,available,12.98,16.48,medium,low,9,namecheap,,,09/08/2026 08:38
@@ -610,10 +662,12 @@ a625ba82-7fe1-472c-81b6-131111795842,befitting.channel,available,12.98,16.48,med
 d22ef654-311a-43c8-b97a-c0eb8b58aa22,duracell.channel,available,16.48,,high,low,8,namecheap,,,
 4c871bf4-2221-42fa-9657-6e71191c587a,stadium.channel,premium,61.27,61.27,high,low,7,spaceship,,,28/09/2026 03:07
 0c0d0e70-8cff-444f-8215-c93d34fbbc3c,cranky.channel,available,12.98,16.48,medium,low,6,namecheap,,,13/08/2026 04:53
+0e5dcfe9-c990-438d-92db-c3ddc888b306,displacement.channel,available,10.81,10.81,high,low,12,porkbun,,,29/09/2026 21:00
 4deb8178-9ffa-42f8-82e0-d788b6858f12,squally.channel,available,12.98,16.48,low,low,7,namecheap,,,10/09/2026 17:18
 9a5ec81f-5e62-4a2b-ae2f-2b759d69a7bd,nett.channel,premium,37.7,37.7,medium,low,4,namecheap,,,03/09/2026 15:52
 fb1ec29c-0907-402a-89c7-dcc3ab1fbef9,iron.channel,premium,648.7,648.7,high,low,4,namecheap,,,23/09/2026 13:11
 2729e778-90d3-42f2-a335-580af4f033d0,resultant.channel,available,12.98,16.48,high,low,9,namecheap,,,
+68821cd3-9cdc-4f27-a771-dd7086ffaf02,equilibrium.channel,premium,30.22,30.22,high,low,11,spaceship,,,29/09/2026 23:01
 dde8908f-3c41-434c-adcd-fb517e12af97,randall.channel,premium,30.22,30.22,high,low,7,spaceship,,,28/09/2026 04:02
 a62c29d9-d37d-45ad-9198-ff4402643c7b,finnish.channel,available,12.98,16.48,high,low,7,namecheap,,,18/08/2026 05:03
 7d31b522-5cf6-452e-b34a-0d5e7f7e4527,algebras.channel,available,10.55,10.55,low,low,8,spaceship,,,28/09/2026 13:28
@@ -624,6 +678,7 @@ d6149b00-aca2-4c42-9a9b-966819dfad27,explaining.channel,available,10.55,10.55,hi
 f99e4cbe-d69f-45c6-b312-8ebfa7bce1a4,brawny.channel,available,12.98,16.48,high,low,6,namecheap,,,11/08/2026 02:47
 8da8db12-ba56-4516-b94b-44ba3f7e8462,lincolnshire.channel,available,12.98,16.48,medium,low,12,namecheap,,,28/09/2026 11:48
 f58a5ff6-f8f2-4952-8e8b-695b42191f97,astragal.channel,available,12.98,16.48,medium,low,8,namecheap,,,19/09/2026 09:44
+bf0064af-9ac5-43eb-b83c-894996c6a79a,spaulding.channel,available,10.55,10.55,high,low,9,spaceship,,,29/09/2026 11:11
 1328f824-ded4-47e2-b8e4-24f77e95d8d5,inexorable.channel,available,12.98,16.48,medium,low,10,namecheap,,,
 d3c1b569-2790-46dd-9f98-b5c94c2ef430,seductive.channel,available,12.98,16.48,high,low,9,namecheap,,,10/09/2026 01:39
 079f4cff-62bf-4216-94f7-d1e0338858e6,convinced.channel,available,16.48,,high,low,9,namecheap,,,
@@ -637,9 +692,11 @@ a5f6d04e-c9ae-4cd5-ac98-346b99537471,pineapple.channel,premium,141.35,141.35,hig
 128c701e-6292-44d7-b82d-ba9c3fe20930,dreams.channel,premium,323.7,323.7,high,low,6,namecheap,,,25/09/2026 20:24
 74932e8b-525c-4dca-be8a-e9c2c87e76da,binful.channel,available,12.98,16.48,medium,low,6,namecheap,,,23/09/2026 17:14
 8454b5ad-dc74-4a16-b8f7-0758a966d588,liberated.channel,available,12.98,16.48,high,low,9,namecheap,,,16/08/2026 06:20
+1ac555a8-424a-416b-ae21-25c27a8d7bc9,turk.channel,premium,64.93,64.93,high,low,4,porkbun,,,29/09/2026 08:16
 02152acf-3e59-4c37-81ff-7f937a8d5c4b,decreasing.channel,available,12.98,16.48,medium,low,10,namecheap,,,13/08/2026 22:12
 7c0bf795-8c84-4bed-9096-7f271832e4a4,earthbound.channel,available,12.98,16.48,high,low,10,namecheap,,,14/08/2026 22:37
 e2c0a075-caf0-4dd7-bdf7-c7d5c3a0e6b7,oblique.channel,available,12.98,16.48,high,low,7,namecheap,,,14/08/2026 05:11
+13450f53-b79d-4e24-bd56-dafbc78de1ca,audiences.channel,available,10.81,10.81,high,low,9,porkbun,,,29/09/2026 11:20
 b32d0b49-e3f4-4f56-8562-a12a395829ae,beetroot.channel,available,19.99,19.99,high,low,8,name.com,,,23/09/2026 01:58
 762687a9-8575-48be-baf5-bd7571fa6516,exposure.channel,premium,76.7,76.7,high,low,8,namecheap,,,08/09/2026 13:44
 0c04a58a-aa5a-47e1-9a56-47f67a97512f,clack.channel,available,12.98,16.48,medium,low,5,namecheap,,,23/09/2026 23:30
@@ -648,18 +705,25 @@ e08b9763-8cf2-4ecb-be72-7cfa9b8346b6,judging.channel,available,10.55,10.55,high,
 626b6f1e-197e-4b83-9a76-2bf84dc4bc86,confiding.channel,available,12.98,16.48,high,low,9,namecheap,,,12/08/2026 20:45
 f616d5e1-3bd7-4d58-ac80-272782f5f985,blender.channel,premium,37.7,37.7,high,low,7,namecheap,,,24/09/2026 05:44
 9101b473-158e-496e-b3e3-c174781fcc08,contacted.channel,available,10.81,10.81,medium,low,9,porkbun,,,28/09/2026 00:26
-5c9a24e5-4e64-455c-8d79-2f79294d1dca,underwater.channel,premium,37.7,37.7,medium,low,11,namecheap,,,16/09/2026 17:58
+5c9a24e5-4e64-455c-8d79-2f79294d1dca,underwater.channel,premium,37.7,37.7,high,low,11,namecheap,,,16/09/2026 17:58
+6c7d0754-1207-4c14-a306-81bfd8d9d6ea,gayle.channel,available,10.55,10.55,medium,low,5,spaceship,,,29/09/2026 04:04
+4464dc3d-1949-4685-a7a5-61ebc76b7fe0,cir.channel,premium,76.7,76.7,high,low,3,namecheap,,,29/09/2026 09:07
 53faa488-d0b9-4da8-9375-5e43d13b5941,casualty.channel,available,10.55,10.55,medium,low,8,spaceship,,,28/09/2026 18:35
 fdf29c66-0d13-4a03-add1-c34ae1b9ff7e,ended.channel,available,12.98,16.48,high,low,5,namecheap,,,
 2b8390a1-f04d-4506-a2c8-527b6af6baf2,prosaic.channel,available,12.98,16.48,medium,low,7,namecheap,,,21/08/2026 15:08
 528d1b7a-3adf-42fe-8535-fe2d47caece9,sanctions.channel,available,12.98,16.48,medium,low,9,namecheap,,,20/09/2026 01:56
 099f12ec-542b-4d78-8fe0-7db533a1ade7,hayes.channel,premium,61.27,61.27,high,low,5,spaceship,,,28/09/2026 05:58
+802121a3-a4c9-422e-8116-7ec2456a6c9a,numbered.channel,available,12.98,16.48,medium,low,8,namecheap,,,29/09/2026 10:20
+5637e6c6-2820-4bc3-9764-15fb5e34ae2b,nominate.channel,available,10.55,10.55,high,low,8,spaceship,,,29/09/2026 20:40
 cfa8e3bb-8377-47e1-b3a8-2cabe2f27025,spock.channel,available,12.98,16.48,high,low,5,namecheap,,,23/09/2026 08:25
 4a097cd1-2cf9-4a55-b1da-7f7f6ec95eb1,long.channel,premium,648.7,648.7,high,low,4,namecheap,,,24/09/2026 21:14
 25e7033a-6056-4059-8e7c-cbc1797d0f65,walter.channel,premium,76.7,76.7,high,medium,6,namecheap,,,25/09/2026 03:36
-475ff855-7b33-41c0-905e-a97c34b635bb,quadruplex.channel,available,12.98,16.48,medium,low,10,namecheap,,,18/08/2026 13:26
+d25472be-d037-4909-8994-09c02188a610,pasadena.channel,premium,30.22,30.22,high,low,8,spaceship,,,29/09/2026 19:55
+475ff855-7b33-41c0-905e-a97c34b635bb,quadruplex.channel,available,12.98,16.48,high,low,10,namecheap,,,18/08/2026 13:26
+0b82600f-4a13-402e-ab37-82eba1ed397b,tipperary.channel,available,10.55,10.55,high,low,9,spaceship,,,29/09/2026 09:36
 9c0a2729-1ef2-46f3-9fa8-b622f8539f40,malcolm.channel,premium,37.7,37.7,high,low,7,namecheap,,,25/09/2026 14:54
 450f8a19-4150-4bbf-89ae-6dc064df1b26,paterson.channel,available,12.98,16.48,high,low,8,namecheap,,,25/09/2026 09:48
+12fc64ff-826c-45ab-b028-8d825eebf891,charms.channel,premium,30.22,30.22,medium,low,6,spaceship,,,29/09/2026 10:30
 bb053199-7252-45d2-9e6d-a1d64b8aa15c,understood.channel,available,19.99,19.99,high,low,10,godaddy,,,28/09/2026 02:13
 9424e036-78dc-42af-88b6-96ada35857f6,yogurt.channel,premium,61.27,61.27,high,low,6,spaceship,,,28/09/2026 02:43
 bab5b63a-8850-4006-af5d-4e1e64cae035,silvervine.channel,available,12.98,16.48,medium,low,10,namecheap,,,17/09/2026 04:49
@@ -678,6 +742,8 @@ bbcf1577-9fd8-49bd-9e57-4466b5379b89,fantasy.channel,premium,648.7,648.7,high,lo
 77fc83ff-9a47-409e-8819-4fa0274a2939,scented.channel,available,12.98,16.48,high,low,7,namecheap,,,27/09/2026 03:39
 5a8aee22-2d7f-42d6-861d-21b535a928d4,sigmoid.channel,available,12.98,16.48,high,medium,7,namecheap,,,10/09/2026 07:58
 94870348-fe29-4b7d-a523-c3b7f76e83c4,ferrari.channel,premium,133.72,133.72,high,high,7,spaceship,,,28/09/2026 03:37
+ae5fa5dc-b5d4-45b4-876c-4f00ef3d668d,bastards.channel,available,10.55,10.55,medium,low,8,spaceship,,,29/09/2026 11:17
+871abbe7-ce5f-40ce-b746-1dd53676ca71,intimidate.channel,available,10.55,10.55,high,low,10,spaceship,,,29/09/2026 20:44
 d7e67e10-49aa-49a0-86f7-211257547725,dollars.channel,premium,76.7,76.7,high,low,7,namecheap,,,17/09/2026 07:00
 c65d09d8-8a90-4dcc-8e14-b68f5281be0e,balmoral.channel,available,12.98,16.48,high,low,8,namecheap,,,21/09/2026 23:39
 a3ffec20-3c7d-421a-bf27-89e0e633c858,parole.channel,available,10.55,10.55,high,low,6,spaceship,,,28/09/2026 05:28
@@ -690,16 +756,17 @@ a3ffec20-3c7d-421a-bf27-89e0e633c858,parole.channel,available,10.55,10.55,high,l
 ca2c1f6c-08b8-4fc2-9cce-8bcba3ac0afa,intend.channel,available,12.98,16.48,high,low,6,namecheap,,,25/09/2026 18:20
 799c0950-9f8b-422e-8436-631643261402,injured.channel,available,12.98,16.48,high,low,7,namecheap,,,22/08/2026 05:38
 12da1e73-90b1-4d8f-b95d-ed35dad064c6,allophonic.channel,available,12.98,16.48,medium,low,10,namecheap,,,
+5cc8d8d7-8826-41e7-ad8d-e5b5ad6d4e5b,genre.channel,premium,30.22,30.22,high,low,5,spaceship,,,29/09/2026 07:04
 a8aee360-db92-4e45-90a7-d901180e9aeb,benefactor.channel,available,12.98,16.48,high,low,10,namecheap,,,23/09/2026 07:53
 e6a030f1-6be8-4252-8b4a-b49e05a0efbd,doctors.channel,premium,323.7,323.7,high,low,7,namecheap,,,18/09/2026 07:41
 229fdd66-b53c-4c95-8c95-46bf80aca533,wary.channel,available,12.98,16.48,medium,low,4,namecheap,,,22/08/2026 22:32
-261f65ee-336a-4da3-821d-70fab6691cb8,potts.channel,available,10.55,10.55,medium,low,5,spaceship,,,28/09/2026 04:13
+261f65ee-336a-4da3-821d-70fab6691cb8,potts.channel,available,10.55,10.55,high,low,5,spaceship,,,28/09/2026 04:13
 0eaa462c-9158-49a8-958b-288ae55bebb1,ropy.channel,available,12.98,16.48,high,medium,4,namecheap,,,09/09/2026 18:37
 6d313f4a-a5dd-480b-ac1c-43f4be1e0993,tautog.channel,available,12.98,16.48,medium,low,6,namecheap,,,24/09/2026 02:17
 1b9533a7-69f2-4483-882f-ea3ca7742cb7,profligate.channel,available,19.99,19.99,medium,low,10,name.com,,,13/08/2026 20:24
 d03e0e89-7701-42a3-85e0-ff222f7ef737,vesica.channel,available,12.98,16.48,medium,low,6,namecheap,,,24/09/2026 03:27
 2a0e6b1f-260f-423b-ab73-21138b5ffc39,uterine.channel,available,12.98,16.48,medium,low,7,namecheap,,,13/09/2026 00:02
-fd24a1ec-463b-4b3e-9357-87971c1a57d5,yao.channel,premium,61.27,61.27,medium,low,3,spaceship,,,28/09/2026 07:58
+fd24a1ec-463b-4b3e-9357-87971c1a57d5,yao.channel,premium,61.27,61.27,high,low,3,spaceship,,,28/09/2026 07:58
 0e818b14-ccfd-4987-bfd2-90a99b7fa425,means.channel,premium,161.25,,high,low,5,name.com,,,
 a9d16c1c-2a10-41dc-8538-72992dd1faff,caesar.channel,premium,37.7,37.7,high,low,6,namecheap,,,27/09/2026 03:27
 5d3b27f8-fa2e-4a47-9998-cd31ec4897a9,childly.channel,available,12.98,16.48,medium,low,7,namecheap,,,12/08/2026 05:14
@@ -713,6 +780,7 @@ a9d16c1c-2a10-41dc-8538-72992dd1faff,caesar.channel,premium,37.7,37.7,high,low,6
 aa8f8652-6077-48a8-9347-72c29e417781,unbuttoned.channel,available,12.98,16.48,medium,low,10,namecheap,,,12/09/2026 04:42
 98e54b55-092f-43cf-b3a8-be41edd99b24,hadal.channel,available,12.98,16.48,medium,low,5,namecheap,,,20/08/2026 21:30
 6e8d7ada-2ec9-48b9-94ba-e7c38c3a39c6,matai.channel,available,12.98,16.48,medium,low,5,namecheap,,,24/09/2026 01:23
+b2051daa-8735-47f1-9062-80b66bb7628d,noticing.channel,available,10.55,10.55,high,low,8,spaceship,,,29/09/2026 08:45
 84595c8e-269c-4f3a-bc32-9c76082ff3a6,moated.channel,available,12.98,16.48,medium,low,6,namecheap,,,25/08/2026 02:14
 cd4117cb-cd37-4e1f-9387-5e040d6e2411,johnstown.channel,available,10.81,10.81,medium,low,9,porkbun,,,28/09/2026 22:27
 38008029-a37e-4841-a281-398f64d30bb2,tahoe.channel,premium,82.6,82.6,high,low,5,namecheap,,,
@@ -731,8 +799,10 @@ f5794df0-8c33-44be-898c-37bb66bbb9cb,project.channel,premium,648.7,648.7,high,me
 f5c7f5e2-076d-4fbe-8f85-b2393c9636ed,reversive.channel,available,12.98,16.48,medium,low,9,namecheap,,,09/09/2026 16:11
 f38f1ce0-87a3-4f63-9c34-f7e283cc1249,weil.channel,premium,37.7,37.7,medium,low,4,namecheap,,,19/09/2026 04:20
 ac3e8327-bc87-4208-8cd7-53ffa467372f,bra.channel,premium,257.92,257.92,high,low,3,spaceship,,,29/09/2026 00:58
+7cbf3ba0-aead-484e-a3fd-a367c31b3284,currents.channel,available,12.98,16.48,high,low,8,namecheap,,,29/09/2026 17:16
 63ae560c-bd6c-44d6-a5db-474bed619562,ugly.channel,premium,73.75,73.75,high,low,4,name.com,,,24/09/2026 06:45
 a396aa0a-089e-4dee-938b-569395e1c953,ahmad.channel,premium,37.7,37.7,high,low,5,namecheap,,,27/09/2026 07:37
+004e3b09-66f2-40a0-8710-32fc5923a4a2,shenzhen.channel,premium,32.18,32.18,medium,low,8,porkbun,,,29/09/2026 04:19
 c0b79746-9cf2-42f7-89b3-65b9531e10f2,numerate.channel,available,12.98,16.48,medium,low,8,namecheap,,,03/09/2026 22:56
 a33d6aca-33d4-46b4-97d9-2a3ae768f5aa,diffusely.channel,available,12.98,16.48,medium,low,9,namecheap,,,14/09/2026 12:36
 7111ddbb-9132-4986-8b1e-ba1495f8c187,zippo.channel,available,12.98,16.48,high,low,5,namecheap,,,03/09/2026 22:45
@@ -743,10 +813,11 @@ dbb7539e-32f9-4178-97c2-62dae08e4f8a,port.channel,premium,323.7,323.7,high,low,4
 a5d60900-4f8e-4e89-9217-69b202e1f07b,autoimmune.channel,available,12.98,16.48,medium,low,10,namecheap,,,07/08/2026 20:32
 b89fcbb1-e42c-4c3c-8409-75f87b66fb59,extant.channel,available,12.98,16.48,medium,low,6,namecheap,,,17/08/2026 18:56
 d820300d-6cee-48a9-b6aa-dd9c3edb075d,catches.channel,available,10.55,10.55,medium,low,7,spaceship,,,28/09/2026 04:27
-0ff40597-6a78-453d-b8fc-3945e2e75fa6,ata.channel,premium,257.92,257.92,medium,low,3,spaceship,,,28/09/2026 11:37
+0ff40597-6a78-453d-b8fc-3945e2e75fa6,ata.channel,premium,257.92,257.92,high,low,3,spaceship,,,28/09/2026 11:37
 566bf3b4-1519-468b-9264-fb82cdbf4872,trilingual.channel,available,12.98,16.48,high,low,10,namecheap,,,11/09/2026 19:48
 2d8d96ee-cbba-4892-af7f-57e32ce8a44d,hans.channel,premium,167.7,167.7,high,low,4,namecheap,,,
 4c82a162-4b95-40c2-857f-522253498f76,moonlight.channel,premium,73.75,,high,low,9,name.com,,,
+fa2f85ab-0dcd-44a4-9e26-4694314fe0e6,virtues.channel,available,10.55,10.55,high,low,7,spaceship,,,29/09/2026 16:33
 70919182-a26c-4f96-8928-a27b82c32bc0,remove.channel,premium,311.25,311.25,high,low,6,name.com,,,21/09/2026 14:40
 c562c2bb-2f45-47f2-9df6-31c4954e9abb,ultra.channel,premium,311.25,311.25,high,medium,5,name.com,,,17/08/2026 19:33
 5203976f-4555-42c9-b05d-e6b546833ff3,formula.channel,premium,257.92,257.92,high,low,7,spaceship,,,28/09/2026 08:04
@@ -764,10 +835,12 @@ d5792c07-54a9-4042-9f4b-686b94b29c9a,veal.channel,available,16.48,,medium,low,4,
 98614cb1-a7fd-4a87-986d-b1007f55fc44,marietta.channel,available,10.55,10.55,high,low,8,spaceship,,,28/09/2026 04:02
 02c562dc-5048-4880-9567-6e4aa66c5539,vulvar.channel,available,12.98,16.48,medium,low,6,namecheap,,,13/09/2026 07:29
 1f8e01d9-12ae-4546-97f3-c3b73c94fa9d,souse.channel,available,12.98,16.48,medium,low,5,namecheap,,,
+dc20a43b-3ac1-4862-8a78-22a87f5c99b8,withdrawing.channel,available,10.55,10.55,high,low,11,spaceship,,,29/09/2026 21:24
 cdd66ef4-d16a-420f-9c5a-fb5d822bbb54,aalto.channel,available,12.98,16.48,high,low,5,namecheap,,,16/09/2026 13:16
 e36e377c-74af-48d4-b885-1bd496fb87fb,officer.channel,premium,167.7,167.7,high,low,7,namecheap,,,25/09/2026 09:25
 2e951d89-e7a9-452d-9b2a-30cf17891775,breezy.channel,available,12.98,16.48,high,low,6,namecheap,,,22/09/2026 22:40
 9e04ced8-87dd-4c1f-a35f-61fb5bd87a47,franchise.channel,premium,167.7,167.7,high,low,9,namecheap,,,24/09/2026 21:02
+9999a7b7-cd45-43d1-8be5-77e9d1fa52de,dod.channel,premium,61.27,61.27,high,low,3,spaceship,,,30/09/2026 01:18
 3d2a55ef-fa47-4aed-9493-bb938957fb8a,gypsy.channel,premium,73.75,73.75,high,low,5,name.com,,,10/08/2026 17:21
 51b0430e-ec39-418a-a1f1-dfb4e85dbd83,large.channel,premium,257.92,257.92,high,low,5,spaceship,,,28/09/2026 08:32
 162542af-766f-4464-b860-83b2b3f3fc7d,lump.channel,available,10.55,10.55,medium,low,4,spaceship,,,29/09/2026 00:25
@@ -779,7 +852,7 @@ beab3f5e-3133-4fff-8f93-8b260c47ebe9,velocity.channel,premium,161.25,,high,low,8
 65758d4e-d102-4650-afab-1b69820c8e35,southbound.channel,available,12.98,16.48,high,medium,10,namecheap,,,10/09/2026 14:47
 d8aa2362-3dab-4a52-9568-52aada6b5448,romish.channel,available,12.98,16.48,medium,low,6,namecheap,,,05/09/2026 01:30
 6a7c724d-6930-4ca3-8fd8-19b47059a1f7,planktonic.channel,available,12.98,16.48,medium,low,10,namecheap,,,08/09/2026 20:46
-5e7726e7-845b-4796-9c39-f7b13483069e,aorta.channel,available,12.98,16.48,medium,low,5,namecheap,,,19/09/2026 16:04
+5e7726e7-845b-4796-9c39-f7b13483069e,aorta.channel,available,12.98,16.48,high,low,5,namecheap,,,19/09/2026 16:04
 18f27858-9a37-462f-86d3-fc42cbaef1be,acromegaly.channel,available,12.98,16.48,medium,low,10,namecheap,,,17/09/2026 03:48
 3969a0cf-9060-424a-8f63-ee923abadcfc,cloak.channel,available,12.98,16.48,high,medium,5,namecheap,,,24/09/2026 15:49
 fedfd8ac-ce77-4562-9a3a-be7710d75ccd,emmanuel.channel,premium,37.7,37.7,high,low,8,namecheap,,,27/09/2026 03:07
@@ -788,9 +861,10 @@ cecd7842-3214-425b-9be8-265e1a7680b1,baloney.channel,available,12.98,16.48,mediu
 2f6e492a-8c94-4627-8367-1ec308662888,unassisted.channel,available,12.98,16.48,high,medium,10,namecheap,,,10/09/2026 08:26
 0c72f3d2-0028-4a24-aefd-8b01e4bb5d7d,charge.channel,premium,257.92,257.92,high,low,6,spaceship,,,28/09/2026 22:08
 fd3f6cc6-e89b-49bd-93b5-4d30766492e7,variant.channel,premium,37.7,37.7,high,low,7,namecheap,,,13/09/2026 01:15
+5189ee85-4ecf-4f70-8ffd-41ef4414d7c0,saab.channel,available,10.55,10.55,high,medium,4,spaceship,,,29/09/2026 21:32
 01e0c55c-69a7-47d6-a29f-5fb93c230549,pocketable.channel,available,12.98,16.48,medium,low,10,namecheap,,,08/09/2026 22:20
 99d1f8c7-2797-4d17-aeb5-3db2327574d6,trumbull.channel,available,12.98,16.48,medium,low,8,namecheap,,,28/09/2026 14:37
-4e04f91b-e42e-45a3-ac4b-24ac17e06150,fueled.channel,available,12.98,16.48,medium,low,6,namecheap,,,18/08/2026 17:37
+4e04f91b-e42e-45a3-ac4b-24ac17e06150,fueled.channel,available,12.98,16.48,high,low,6,namecheap,,,18/08/2026 17:37
 189b3bf7-70fc-4486-9054-d7b5af580af8,simon.channel,premium,648.7,648.7,high,medium,5,namecheap,,,25/09/2026 07:17
 b3cf1a67-c327-4f20-9fa8-64077e5ebde5,amply.channel,available,12.98,16.48,medium,low,5,namecheap,,,13/09/2026 19:37
 d83921bb-628d-4b53-910e-a75f48b11bc6,vindicated.channel,available,12.98,16.48,high,low,10,namecheap,,,08/09/2026 05:23
@@ -801,29 +875,31 @@ d83921bb-628d-4b53-910e-a75f48b11bc6,vindicated.channel,available,12.98,16.48,hi
 ab22f175-6267-4498-a779-f270a86cffc1,fused.channel,premium,37.7,37.7,high,low,5,namecheap,,,22/09/2026 03:03
 791ba030-3762-44b3-9693-88359247c4de,gaping.channel,available,12.98,16.48,high,low,6,namecheap,,,
 00927d48-6581-47d0-b0a1-e7daf0e361d1,dug.channel,premium,61.27,61.27,high,low,3,spaceship,,,28/09/2026 05:32
-514293a0-d440-458e-8bec-d30470c8fd2b,experimentation.channel,available,10.81,10.81,medium,low,15,porkbun,,,28/09/2026 03:41
+514293a0-d440-458e-8bec-d30470c8fd2b,experimentation.channel,available,10.81,10.81,high,low,15,porkbun,,,28/09/2026 03:41
 e0acca5d-408c-4570-8cdf-fe93531d19a4,revokable.channel,available,12.98,16.48,medium,low,9,namecheap,,,09/09/2026 16:23
 5b3d7e21-ca74-497d-9af2-21ef33488a91,movable.channel,available,12.98,16.48,high,low,7,namecheap,,,25/08/2026 08:56
-4c57d0f1-cc32-48f7-afd0-6b728ca29466,credit.channel,premium,623.75,,high,low,6,name.com,,,
+4c57d0f1-cc32-48f7-afd0-6b728ca29466,credit.channel,premium,516.67,516.67,high,low,6,spaceship,,,29/09/2026 09:26
 abffae3b-af92-43b4-94ed-22326179e26e,operate.channel,available,12.98,16.48,high,low,7,namecheap,,,25/09/2026 06:12
 5b189134-c439-4e60-a08b-5232ad956be7,rodney.channel,available,10.55,10.55,high,low,6,spaceship,,,28/09/2026 03:52
-9865327f-8d45-4632-b166-0d9c8e2db6a1,tailored.channel,premium,36.25,36.25,medium,low,8,name.com,,,09/08/2026 17:32
+9865327f-8d45-4632-b166-0d9c8e2db6a1,tailored.channel,premium,36.25,36.25,high,low,8,name.com,,,09/08/2026 17:32
 47e7b2d3-843b-4940-bee7-8e2d5437aa6d,pamper.channel,available,10.55,10.55,high,low,6,spaceship,,,29/09/2026 00:06
+d41a0384-1a42-4cbf-a520-3dfb08560c1d,townshend.channel,available,10.55,10.55,medium,low,9,spaceship,,,29/09/2026 04:20
 5d618001-ab9d-42a7-98cb-3f23989e1410,clausal.channel,available,12.98,16.48,medium,low,7,namecheap,,,12/08/2026 10:00
 7d60ac8b-6819-425c-b26f-a38d4e9b3f75,zhang.channel,premium,167.7,167.7,high,low,5,namecheap,,,25/09/2026 15:58
 e2995c33-d16e-478e-be59-7cdeeeddfea7,expanding.channel,available,10.55,10.55,medium,low,9,spaceship,,,28/09/2026 17:53
 12990fb2-9cb4-4dd6-86a0-8bab4fddc451,aphesis.channel,available,12.98,16.48,medium,low,7,namecheap,,,19/09/2026 16:55
 b785f7ac-603a-4146-a4e5-9b9e22fcd3dc,demonstrations.channel,available,16.48,,medium,low,14,namecheap,,,
 e38e7e32-a98a-4fa6-be0e-b33aca5cca38,immortal.channel,available,12.98,16.48,high,low,8,namecheap,,,21/08/2026 21:12
-430b273e-fa0c-4934-9212-2c8b680bdd44,brooding.channel,available,12.98,16.48,medium,low,8,namecheap,,,11/08/2026 05:52
+430b273e-fa0c-4934-9212-2c8b680bdd44,brooding.channel,available,12.98,16.48,high,low,8,namecheap,,,11/08/2026 05:52
 92aa983a-6e35-4721-ae1d-3634184bb086,pivotal.channel,available,12.98,16.48,high,medium,7,namecheap,,,08/09/2026 20:11
-289b58c8-53a9-4be4-b999-c284b6a865ae,anubis.channel,available,12.98,16.48,medium,low,6,namecheap,,,19/09/2026 11:58
-96db5f42-8652-42df-992d-38efe7b710b4,archetypal.channel,available,12.98,16.48,medium,low,10,namecheap,,,06/08/2026 15:32
+289b58c8-53a9-4be4-b999-c284b6a865ae,anubis.channel,available,12.98,16.48,high,low,6,namecheap,,,19/09/2026 11:58
+96db5f42-8652-42df-992d-38efe7b710b4,archetypal.channel,available,12.98,16.48,high,low,10,namecheap,,,06/08/2026 15:32
 4e59f2a5-01b4-4911-b087-b005128a7d4a,brewster.channel,available,10.55,10.55,medium,low,8,spaceship,,,28/09/2026 11:34
 a63ded1c-aef6-40ce-a586-1421819e730c,inept.channel,available,12.98,16.48,medium,low,5,namecheap,,,21/08/2026 18:53
 92877c21-094c-4884-8e98-251a1508062e,nsa.channel,premium,76.7,76.7,high,low,3,namecheap,,,27/09/2026 04:50
 7be505e3-6b83-41b2-ac5e-e88ad9610d3a,comment.channel,premium,323.7,323.7,high,low,7,namecheap,,,24/09/2026 16:29
-296cfb43-38b5-44a0-bd82-a89d0a244365,sag.channel,premium,73.75,,high,low,3,name.com,,,
+296cfb43-38b5-44a0-bd82-a89d0a244365,sag.channel,premium,76.7,76.7,high,low,3,namecheap,,,29/09/2026 16:55
+cb71d817-cf6b-469b-a0b7-a822517ca59f,escapes.channel,available,12.98,16.48,medium,low,7,namecheap,,,29/09/2026 05:18
 a969816d-a335-49da-8cb4-da0fc5492b96,ban.channel,premium,311.25,311.25,high,low,3,name.com,,,18/08/2026 11:10
 7ee781af-4e95-45b9-bb81-bed9bf07df7a,conical.channel,available,12.98,16.48,high,low,7,namecheap,,,12/08/2026 20:41
 d888d789-cd9f-448a-a275-48b7518fa1bf,dire.channel,premium,36.25,36.25,medium,low,4,name.com,,,14/08/2026 08:44
@@ -831,18 +907,19 @@ a1e4b598-ec1e-43d8-addc-ab64c883483b,lease.channel,premium,167.7,167.7,high,low,
 55abfb5d-4b5e-4b1e-8518-caa87d2f547a,series.channel,premium,323.7,323.7,high,low,6,namecheap,,,19/09/2026 17:55
 466de00d-d962-4eed-a207-af4c7c21a321,enatic.channel,available,12.98,16.48,medium,low,6,namecheap,,,16/08/2026 21:20
 6e443eb7-f1f1-4234-b2fd-73c455af137b,devastated.channel,available,10.81,10.81,medium,low,10,porkbun,,,28/09/2026 11:36
-60569c4f-47b5-48e1-b08a-fe0f714df69f,exit.channel,premium,161.25,,high,low,4,name.com,,,
+60569c4f-47b5-48e1-b08a-fe0f714df69f,exit.channel,premium,133.72,133.72,high,low,4,spaceship,,,29/09/2026 12:09
+384b103d-547e-4aa8-9ebe-f8562566377b,gretchen.channel,available,10.55,10.55,high,low,8,spaceship,,,29/09/2026 09:29
 d9436be2-1951-4c9d-abe8-a6af39547ad5,aquaphobia.channel,available,12.98,16.48,medium,low,10,namecheap,,,19/09/2026 22:59
 5b757637-8fe0-4157-8939-883935bf9d07,wreck.channel,available,12.98,16.48,high,low,5,namecheap,,,27/09/2026 05:55
 7d0170bb-86c5-4ba7-a720-626133386829,resolutely.channel,available,12.98,16.48,medium,low,10,namecheap,,,14/09/2026 11:12
-1b9a8073-64bf-4241-8345-ba328b9ff8ec,fuel.channel,premium,311.25,,high,low,4,name.com,,,
+1b9a8073-64bf-4241-8345-ba328b9ff8ec,fuel.channel,premium,257.92,257.92,high,low,4,spaceship,,,29/09/2026 20:07
 05738645-983a-4fc9-a7c1-a48015f781c6,conclusive.channel,available,12.98,16.48,high,low,10,namecheap,,,23/09/2026 19:11
 e10064bc-e916-4440-8fcd-b95c3a5d3a1b,ane.channel,premium,73.75,73.75,high,low,3,name.com,,,
 9f680c6f-becd-4129-b9d1-78826b2625c3,penetrate.channel,available,10.55,10.55,high,low,9,spaceship,,,28/09/2026 09:30
 47995f5e-dd13-4230-b140-8aea695f1e60,terminated.channel,available,12.98,16.48,high,low,10,namecheap,,,19/09/2026 16:25
 d296f2b1-bbc2-43da-9b05-47f10a80ded5,mandioca.channel,available,12.98,16.48,medium,low,8,namecheap,,,23/09/2026 22:54
 f7099bd3-49c6-4691-814d-a347afaac7a7,susurrant.channel,available,12.98,16.48,medium,low,9,namecheap,,,03/09/2026 11:08
-25a862d4-2ef5-4370-aa9a-fc5631287e0b,awed.channel,available,12.98,16.48,medium,low,4,namecheap,,,08/08/2026 00:44
+25a862d4-2ef5-4370-aa9a-fc5631287e0b,awed.channel,available,12.98,16.48,high,low,4,namecheap,,,08/08/2026 00:44
 fd424617-53b6-4313-a514-b10051285bd4,yeller.channel,available,12.98,16.48,medium,low,6,namecheap,,,22/09/2026 17:06
 d89a6d1c-c50e-4da1-8110-18ab6926e1ca,fijian.channel,available,12.98,16.48,high,low,6,namecheap,,,18/08/2026 04:02
 db78176b-70b9-4c25-a76e-883164eaf1c6,called.channel,available,16.48,,high,low,6,namecheap,,,
@@ -851,6 +928,9 @@ bf2ae336-4c97-488d-9fbf-671d49287a33,facile.channel,available,12.98,16.48,high,l
 228eff19-94da-4164-94c9-e4e586a1acd6,expensive.channel,premium,73.75,73.75,high,low,9,name.com,,,17/08/2026 18:10
 a032f29c-2591-4db5-8a1c-ddfaed503967,tricolour.channel,available,12.98,16.48,high,low,9,namecheap,,,11/09/2026 19:27
 9e59916e-776e-4e23-915f-60b5abefaa23,metabolic.channel,available,12.98,16.48,high,low,9,namecheap,,,24/08/2026 21:26
+0d23dd1b-baa9-4914-b705-2b8568db4482,martyn.channel,available,10.55,10.55,high,low,6,spaceship,,,29/09/2026 09:11
+f490e4e6-e6b7-4005-9184-2bf8ba1a3117,lifts.channel,available,10.55,10.55,medium,low,5,spaceship,,,29/09/2026 05:05
+26719bc0-f3e6-485c-8548-3c34b3564772,roadside.channel,available,10.55,10.55,high,low,8,spaceship,,,29/09/2026 13:53
 921e0d60-1fe8-4d56-9fee-5de184d874d0,uncanny.channel,available,12.98,16.48,high,low,7,namecheap,,,16/08/2026 02:23
 5a779b33-afd0-40b4-9141-993d06634028,dystopian.channel,available,12.98,16.48,medium,low,9,namecheap,,,14/08/2026 22:10
 dfb63b69-1665-4dd6-832a-1686351cce05,zane.channel,premium,30.22,30.22,high,low,4,spaceship,,,29/09/2026 04:01
@@ -863,38 +943,43 @@ f9af9611-c7dd-47b0-bd33-0caae12c5c33,youngster.channel,available,12.98,16.48,hig
 efa992f5-da2e-4905-88c1-f0d8d1b3f70f,boldly.channel,available,12.98,16.48,high,low,6,namecheap,,,14/09/2026 00:53
 c4074c1f-28f4-4404-8353-36b455e96ee6,joyce.channel,premium,64.93,64.93,high,low,5,porkbun,,,27/09/2026 14:23
 fec82dbb-a2e8-4283-923d-1322c203bc6c,mouthy.channel,available,16.48,,medium,low,6,namecheap,,,
+0415e7e1-68b4-4789-a7c4-f6148ecd1f43,contests.channel,available,10.81,10.81,medium,low,8,porkbun,,,30/09/2026 00:34
 fc5acc9f-1aff-4cd8-8542-8ec02bba95c5,vaporing.channel,available,12.98,16.48,medium,low,8,namecheap,,,11/08/2026 00:58
 bb9fba69-842e-4f04-985f-bee6472b0bbd,plowed.channel,available,12.98,16.48,medium,low,6,namecheap,,,08/09/2026 21:24
-c1030fc8-e4c2-4a63-ab15-29b84a3d29fa,icu.channel,premium,73.75,,high,low,3,name.com,,,
+c1030fc8-e4c2-4a63-ab15-29b84a3d29fa,icu.channel,premium,61.27,61.27,high,low,3,spaceship,,,29/09/2026 23:28
 df86c410-924b-4c87-bb94-e61e6fd00902,narial.channel,available,12.98,16.48,medium,low,6,namecheap,,,03/09/2026 13:14
 99a2e5ce-46f8-4132-992d-1378038ebb07,gustatory.channel,available,12.98,16.48,medium,low,9,namecheap,,,20/08/2026 21:07
 04410f97-b2fa-4686-b0eb-b80417ea8eba,relatively.channel,available,10.55,10.55,medium,low,10,spaceship,,,28/09/2026 14:14
-844a0404-0417-40ed-ae83-6f85296b845e,bishopric.channel,available,12.98,16.48,medium,low,9,namecheap,,,23/09/2026 21:59
+844a0404-0417-40ed-ae83-6f85296b845e,bishopric.channel,available,12.98,16.48,high,low,9,namecheap,,,23/09/2026 21:59
 3d8913aa-a66a-4d14-8db2-55a7d6946dca,sinners.channel,available,16.48,,medium,low,7,namecheap,,,
 51d6d867-d1ca-406a-8afa-87a39ee49c80,thompson.channel,premium,76.7,76.7,high,low,8,namecheap,,,23/09/2026 08:26
+13aa909a-e835-4a46-bd1c-67885f13c9e1,buyers.channel,premium,76.7,76.7,medium,low,6,namecheap,,,29/09/2026 05:47
 75ae2ba4-d6cc-40e3-9221-3022d12892aa,postmortal.channel,available,12.98,16.48,medium,low,10,namecheap,,,09/09/2026 00:33
 022e9cd8-3ed2-4e87-8378-cc4f0658ad07,qat.channel,premium,76.7,76.7,medium,low,3,namecheap,,,17/09/2026 15:24
 b2e23843-7186-4c89-a53f-6615f815e353,abhorrent.channel,available,12.98,16.48,medium,low,9,namecheap,,,21/09/2026 13:49
+b61a5e53-1c61-41bf-86c2-2162ed140621,listeners.channel,available,10.55,10.55,medium,low,9,spaceship,,,29/09/2026 17:43
 d0df82ef-f4e9-4ec1-9bfe-d3e21a5561d3,lyrical.channel,available,12.98,16.48,high,low,7,namecheap,,,24/08/2026 12:41
 da60879d-49a0-42c0-8d57-72ae571b94fc,twins.channel,premium,76.7,76.7,high,medium,5,namecheap,,,25/09/2026 06:26
 08311a5c-a7a3-4934-a7cb-f6337051a495,calculations.channel,available,12.98,16.48,medium,low,12,namecheap,,,17/09/2026 02:07
 eb92d12f-6904-4ebe-a2e0-0e08a326a8cd,studios.channel,premium,167.7,167.7,high,low,7,namecheap,,,18/09/2026 18:25
-c2cbae02-27d5-4239-b69c-3a500fa4191d,cucumber.channel,premium,36.25,,high,low,8,name.com,,,
+c2cbae02-27d5-4239-b69c-3a500fa4191d,cucumber.channel,premium,30.22,30.22,high,low,8,spaceship,,,29/09/2026 12:58
 9e206101-cbfb-416d-b621-381cd47691f5,agamemnon.channel,available,19.99,19.99,medium,low,9,name.com,,,17/09/2026 16:06
 26e10ce5-247d-4cb2-bdc8-d7c0b505dee4,vicenary.channel,available,12.98,16.48,medium,low,8,namecheap,,,13/09/2026 05:21
 66d239fe-f26f-4734-ae6e-9e43a8aa0920,wavy.channel,premium,36.25,36.25,high,low,4,name.com,,,13/08/2026 06:54
 fce8b131-7fbe-4ca9-9548-b464ae9be62d,lennox.channel,premium,30.22,30.22,high,medium,6,spaceship,,,28/09/2026 07:59
-7d658b4d-085e-430d-8d20-b165b6fff94a,equipment.channel,premium,257.92,257.92,high,low,9,spaceship,,,28/09/2026 02:33
+7d658b4d-085e-430d-8d20-b165b6fff94a,equipment.channel,premium,323.7,323.7,high,low,9,namecheap,,,29/09/2026 19:32
 933d2c21-aba9-48c7-a092-5b486d786f2a,ciliary.channel,available,12.98,16.48,medium,low,7,namecheap,,,12/08/2026 08:04
 d40f9515-424f-44e4-b871-da0269345e15,fibreoptic.channel,available,12.98,16.48,medium,low,10,namecheap,,,18/08/2026 03:14
-f9584e9a-ba05-4dac-86d6-d9f9f37a999b,daughter.channel,premium,161.25,,high,low,8,name.com,,,
+fd06f0ba-c6db-4deb-afac-56a1709a5766,eel.channel,premium,76.7,76.7,high,low,3,namecheap,,,30/09/2026 01:28
+f9584e9a-ba05-4dac-86d6-d9f9f37a999b,daughter.channel,premium,133.72,133.72,high,low,8,spaceship,,,29/09/2026 13:15
 d4ddb7e1-4898-48e1-947c-c22ed62764c1,schismatic.channel,available,12.98,16.48,medium,low,10,namecheap,,,09/09/2026 23:07
 15db6d94-e9e1-4a38-b32e-c6c85a013917,womanly.channel,available,12.98,16.48,high,low,7,namecheap,,,13/09/2026 13:03
 0b578974-43e1-484e-a55d-9a3dbf0bee56,woeful.channel,available,12.98,16.48,medium,low,6,namecheap,,,17/08/2026 16:46
 d01811b8-dc5f-4e58-9700-02e724be74f7,infrequent.channel,available,12.98,16.48,medium,low,10,namecheap,,,22/08/2026 04:50
-7d99cd21-1d11-43ba-a0c7-6d6850a13daf,sterilizer.channel,available,12.98,16.48,medium,low,10,namecheap,,,21/09/2026 06:04
+7d99cd21-1d11-43ba-a0c7-6d6850a13daf,sterilizer.channel,available,12.98,16.48,high,low,10,namecheap,,,21/09/2026 06:04
 059b19cf-fecb-4262-ac7a-dd024292da71,replicate.channel,available,12.98,16.48,high,low,9,namecheap,,,14/08/2026 21:26
 2fbe6cb2-3e9e-4f22-8230-f5a2b06ab11e,lite.channel,premium,161.25,161.25,high,low,4,name.com,,,11/08/2026 15:09
+7783fc30-4eb2-4f11-9996-aed862c76d84,dolby.channel,available,19.99,19.99,high,medium,5,godaddy,,,30/09/2026 01:20
 d017773b-ccf3-4fec-b2e3-6d9ccf01df25,insightful.channel,available,12.98,16.48,high,low,10,namecheap,,,22/08/2026 07:06
 c55c3fa8-adb6-41c1-ae59-d4147d18729c,nestled.channel,available,12.98,16.48,high,low,7,namecheap,,,03/09/2026 15:46
 6c06c29b-8f03-40db-b5e7-408d23300b19,points.channel,premium,348.6,348.6,high,low,6,namecheap,,,
@@ -906,96 +991,11 @@ df2e6546-6a0d-4a19-9748-3e06d910cd14,augeas.channel,available,12.98,16.48,medium
 f4856739-f1ba-485e-85ad-c046b92fc788,spd.channel,premium,64.93,64.93,high,low,3,porkbun,,,28/09/2026 03:51
 208ca046-afaa-4991-8f2f-1da9919ea5af,dud.channel,premium,73.75,73.75,high,low,3,name.com,,,14/08/2026 20:55
 c9ff7282-f11d-4875-b800-59ccd18f546c,functions.channel,premium,37.7,37.7,high,low,9,namecheap,,,17/09/2026 05:18
-d700fdc7-5262-4106-9cfd-6a60f5007aae,bottled.channel,available,10.55,10.55,medium,low,7,spaceship,,,29/09/2026 03:12
+d700fdc7-5262-4106-9cfd-6a60f5007aae,bottled.channel,available,10.55,10.55,high,low,7,spaceship,,,29/09/2026 03:12
 2dee8927-e5f0-4f56-ad7d-1a4b5e8adadf,backbiter.channel,available,12.98,16.48,medium,low,9,namecheap,,,21/09/2026 15:08
 c3b4b9fc-3ada-45d2-9ca5-aa6775f69189,sixer.channel,available,12.98,16.48,medium,low,5,namecheap,,,
 ce5903fa-0a61-46b5-865b-b3f4ea751872,gathering.channel,premium,37.7,37.7,high,low,9,namecheap,,,20/09/2026 16:00
 b6833224-1eba-4b4d-abf9-2d7f0b5a93a3,sensorial.channel,available,12.98,16.48,medium,low,9,namecheap,,,10/09/2026 03:46
 19f41b6c-91c7-4035-b7a1-a4b27b6f1c83,earle.channel,available,12.98,16.48,medium,low,5,namecheap,,,26/09/2026 03:17
+6b09f8a0-28fc-4081-8763-586364630daf,mules.channel,available,10.55,10.55,high,low,5,spaceship,,,29/09/2026 21:20
 755be31d-045e-4c0d-bfba-51eec1d596e4,ninefold.channel,available,12.98,16.48,medium,low,8,namecheap,,,03/09/2026 17:31
-a73da8a9-48c8-4bd6-8fc2-789cb7d3e502,dna.channel,premium,623.75,,high,medium,3,name.com,,,
-0c629e1e-9e09-407e-ada9-5b367f552f0a,laramie.channel,available,10.55,10.55,medium,low,7,spaceship,,,28/09/2026 14:40
-36c49e45-b27f-4312-9eb9-47ff2621d117,utile.channel,available,12.98,16.48,medium,low,5,namecheap,,,13/09/2026 00:01
-c2c0f9f3-dca7-45e6-8250-0acdd12b0553,shower.channel,premium,133.72,133.72,high,low,6,spaceship,,,28/09/2026 06:02
-ff977803-cae7-42ba-bb08-44805fdf798b,endure.channel,available,12.98,16.48,high,low,6,namecheap,,,11/08/2026 02:41
-6e949ddf-375f-4a3f-9924-f676242e3afa,rent.channel,premium,1298.7,1298.7,high,low,4,namecheap,,,24/09/2026 13:47
-312df211-24ce-45c6-ba35-9193167a462a,breaker.channel,available,12.98,16.48,high,low,7,namecheap,,,24/09/2026 08:24
-ba2d145d-86af-4da1-a290-9c589bcf34fe,sizable.channel,available,12.98,16.48,high,low,7,namecheap,,,20/08/2026 16:38
-4aaab4a2-7c48-4ad9-8ecc-77901943d1c0,dollarfish.channel,available,12.98,16.48,medium,low,10,namecheap,,,20/09/2026 21:42
-8e0ccd94-4527-439d-bba6-6a71ff172fa6,rapacity.channel,available,12.98,16.48,medium,low,8,namecheap,,,21/09/2026 08:45
-695f1504-bc01-4220-be29-12c67dbb107a,overrated.channel,available,12.98,16.48,medium,low,10,namecheap,,,18/09/2026 11:36
-049110c8-4900-432f-ad8f-9db0b145e84e,gainesville.channel,available,12.98,16.48,medium,low,11,namecheap,,,27/09/2026 07:47
-57037ce6-c888-43b7-a08c-13a6a4210225,ella.channel,premium,167.7,167.7,high,low,4,namecheap,,,25/09/2026 21:52
-d815ee1b-cebb-4b48-bb26-2047ecc3b875,oper.channel,available,10.81,10.81,medium,low,4,porkbun,,,28/09/2026 21:34
-98828690-e95f-4752-b827-b5ac561512ee,allocation.channel,available,12.98,16.48,high,low,10,namecheap,,,18/09/2026 11:47
-77261b4b-700e-4a1f-b355-b81cb7db335b,min.channel,premium,311.25,311.25,high,low,3,name.com,,,25/08/2026 00:58
-c0d43207-a99a-4409-9d5c-291cb5d7346a,attempted.channel,available,12.98,16.48,medium,low,9,namecheap,,,07/08/2026 15:12
-51f70216-df86-4e44-b105-5c523f2d089b,limber.channel,available,12.98,16.48,high,low,6,namecheap,,,23/08/2026 11:08
-a329745a-ece6-43b5-bf8d-075eedf8f214,anglesea.channel,available,12.98,16.48,medium,low,8,namecheap,,,19/09/2026 06:27
-04114b3a-b576-4855-9e91-b0c124b137cf,polled.channel,available,12.98,16.48,high,low,6,namecheap,,,20/09/2026 17:21
-0239fdbc-7a4f-4f76-8354-c9d000ea6618,antigram.channel,available,12.98,16.48,low,low,8,namecheap,,,19/09/2026 14:31
-c3a9c97e-82e8-4e06-a288-f038f8096c3d,same.channel,premium,1034.17,1034.17,high,low,4,spaceship,,,27/09/2026 17:53
-9fe9f0d2-e7fb-43ed-bacf-e93c58b2b526,expectant.channel,available,12.98,16.48,high,low,9,namecheap,,,22/09/2026 06:48
-a8e49e16-d3c5-44c7-bbb4-10f119286bee,caps.channel,premium,133.72,133.72,high,low,4,spaceship,,,28/09/2026 22:50
-03e88e2d-0add-4109-9ab5-805a819a7e89,olfactory.channel,available,12.98,16.48,high,low,9,namecheap,,,04/09/2026 02:12
-afad993a-9948-466e-bbce-e9b0b9fe4760,lapidary.channel,available,12.98,16.48,medium,low,8,namecheap,,,22/08/2026 19:40
-fbd2d016-f8f0-4ccd-bb62-744e25edb138,bitewing.channel,available,12.98,16.48,medium,low,8,namecheap,,,23/09/2026 22:28
-977f764d-1ac3-44e3-b3d6-18a97493a6ef,pouched.channel,available,12.98,16.48,high,medium,7,namecheap,,,09/09/2026 00:55
-51a5701d-f573-4652-a20b-e286e966ac7b,bleb.channel,available,12.98,16.48,medium,low,4,namecheap,,,24/09/2026 05:21
-23db7ef1-e12a-4c5d-b130-d5ca512bbaba,cxxx.channel,available,12.98,16.48,high,low,4,namecheap,,,
-b2879bb9-8861-46dc-a19e-e378e894404f,fanta.channel,available,16.48,,high,low,5,namecheap,,,
-63da2b19-1384-4237-ad58-09b84c584c84,hutchinson.channel,available,12.98,16.48,high,low,10,namecheap,,,19/09/2026 10:20
-78345e37-fd7c-4509-8228-0e5fcf808294,shoddy.channel,available,12.98,16.48,medium,low,6,namecheap,,,12/08/2026 03:27
-54bf3acb-e776-40ec-8143-11daf62ad8b1,moderato.channel,available,12.98,16.48,medium,low,8,namecheap,,,25/08/2026 02:58
-153d9ebf-a5d3-4685-a036-3fec720ccb4f,gather.channel,premium,76.7,76.7,high,medium,6,namecheap,,,23/09/2026 20:27
-0a8e75d0-8a23-4d1f-9054-00453f8de0d6,carla.channel,premium,76.7,76.7,high,low,5,namecheap,,,27/09/2026 07:21
-11ca6e8d-7455-4108-8118-904eda468b99,gabriel.channel,premium,133.72,133.72,high,medium,7,spaceship,,,28/09/2026 05:49
-9788ea23-0515-485c-9970-5ba79dacbc2b,faraway.channel,available,12.98,16.48,high,low,7,namecheap,,,17/08/2026 22:14
-3fab9c4e-661b-4cf7-a8e2-9362253db28d,endearing.channel,available,12.98,16.48,high,low,9,namecheap,,,21/09/2026 19:24
-e56dd397-d237-497c-abfc-f5a6ae0de7fe,informant.channel,available,10.55,10.55,medium,low,9,spaceship,,,28/09/2026 14:31
-c8bde6b4-a20b-42d7-9cba-b8a7222b7e58,argument.channel,premium,37.7,37.7,high,low,8,namecheap,,,20/09/2026 04:49
-15d2b95c-0d23-43aa-ab03-40186dd88384,abscessed.channel,available,12.98,16.48,medium,low,9,namecheap,,,
-f51543f0-c1c5-4769-bc39-9a3794594b2b,bounder.channel,available,12.98,16.48,medium,low,7,namecheap,,,24/09/2026 02:20
-20bf1414-3486-4f8a-9c1a-9ce1304eba33,brith.channel,available,12.98,16.48,high,low,5,namecheap,,,23/09/2026 09:27
-41b29e09-da8d-4814-af30-7fcc5294030d,adjutant.channel,available,12.98,16.48,high,low,8,namecheap,,,17/09/2026 08:35
-fbd3d3e5-5a53-4cd2-8d1e-fc4c64155eae,barracuda.channel,premium,37.7,37.7,high,low,9,namecheap,,,22/09/2026 07:54
-2faaf523-f13e-4649-8926-5741543118a4,turbulent.channel,available,12.98,16.48,medium,low,9,namecheap,,,14/08/2026 12:26
-20d07359-586d-440e-96d5-d0a15b806068,fragmental.channel,available,12.98,16.48,medium,low,10,namecheap,,,18/08/2026 14:01
-077fa929-4077-40b2-8f8d-5e26bed58092,grape.channel,premium,76.7,76.7,high,low,5,namecheap,,,25/09/2026 05:32
-f115ec3a-8ed9-4b8f-8533-1ab3ab6a9a86,folder.channel,premium,133.72,133.72,high,low,6,spaceship,,,29/09/2026 03:36
-c0729c6c-44d8-4fa0-b935-e1311186f2a0,reverse.channel,premium,167.7,167.7,high,low,7,namecheap,,,23/09/2026 22:34
-f50c1baa-1311-425c-8e9e-aa27ea120c2a,corroded.channel,available,12.98,16.48,medium,low,8,namecheap,,,13/08/2026 02:05
-eeca7018-13de-4e17-a867-e7101eba41a5,shoplift.channel,available,16.48,,medium,low,8,namecheap,,,
-5d1db30f-516d-434e-8696-9a89e8063dc4,afterglow.channel,available,12.98,16.48,high,low,9,namecheap,,,17/09/2026 15:42
-6069e6bc-e494-466f-96fa-ad118aee94e9,acetum.channel,available,12.98,16.48,medium,low,6,namecheap,,,17/09/2026 00:18
-158af1cb-ade2-47be-a178-b6c019cd0bc9,bilge.channel,available,12.98,16.48,medium,low,5,namecheap,,,23/09/2026 15:50
-7db53414-42f2-4ec0-9672-c9c7642fbf37,colloidal.channel,available,12.98,16.48,medium,low,9,namecheap,,,12/08/2026 17:12
-ba31c493-a037-4dee-85a1-c4134d0cdd0a,adviseable.channel,available,16.48,,high,low,10,namecheap,,,
-288660d6-519c-491c-a6bd-b0cbdcd675d6,bicentric.channel,available,12.98,16.48,medium,low,9,namecheap,,,09/08/2026 19:09
-171eef97-ad5d-4569-9522-8a753f70f44d,babka.channel,available,12.98,16.48,high,low,5,namecheap,,,21/09/2026 12:47
-51186571-b00f-4ef9-883a-cbb225ff6412,naval.channel,premium,76.7,76.7,high,low,5,namecheap,,,03/09/2026 14:07
-8930b69e-8794-407e-acce-1510d1e53218,byrd.channel,available,12.98,16.48,high,low,4,namecheap,,,17/09/2026 08:47
-82952361-3dab-43d4-9a0b-f8de0c0d9e15,clearly.channel,premium,61.27,61.27,high,low,7,spaceship,,,28/09/2026 13:55
-a8738bb3-b9f2-44cf-a0ac-edebde4efadd,hexangular.channel,available,12.98,16.48,medium,low,10,namecheap,,,21/08/2026 07:48
-0f097e81-a078-4239-9c4b-803175413ed7,magnetised.channel,available,12.98,16.48,medium,low,10,namecheap,,,24/08/2026 13:06
-745a7861-a7b0-46eb-95ec-bbe9d461db85,staged.channel,available,12.98,16.48,high,low,6,namecheap,,,10/09/2026 18:02
-c30fee6f-e427-4661-8b93-c65b20835237,abramis.channel,available,12.98,16.48,medium,low,7,namecheap,,,16/09/2026 16:53
-11f91e14-3969-4256-8d84-6ecbeb3ae24c,rhetorical.channel,available,12.98,16.48,high,low,10,namecheap,,,09/09/2026 16:37
-c5ecf444-794f-4077-8305-16401b7c5ec8,sophomore.channel,available,12.98,16.48,high,low,9,namecheap,,,10/09/2026 14:17
-d66a3435-137e-4412-9504-4080f129ccf1,betterment.channel,available,12.98,16.48,high,low,10,namecheap,,,18/09/2026 18:20
-125c62d6-a7d4-44c7-b0fd-1136ad2a5d74,grazing.channel,available,10.81,10.81,medium,low,7,porkbun,,,29/09/2026 01:08
-c1d65a98-e42f-49d2-bed8-3e5f891f4593,grieving.channel,available,12.98,16.48,medium,low,8,namecheap,,,09/08/2026 15:07
-d0b5f6d1-c135-452a-8ccd-1f8781b8687e,revised.channel,available,10.55,10.55,high,low,7,spaceship,,,27/09/2026 14:32
-ca5927ff-f485-4650-8098-7237cc4e0a1a,magnesium.channel,available,12.98,16.48,high,low,9,namecheap,,,20/09/2026 22:22
-92b534e0-beee-4e19-94bb-1471625427e3,exquisite.channel,premium,36.25,36.25,high,low,9,name.com,,,17/08/2026 18:54
-40628f3e-d77b-45e0-a3c3-925fc4c8ed45,gives.channel,available,12.98,16.48,medium,low,5,namecheap,,,18/09/2026 13:54
-8f5f9896-4de5-4149-93b9-a2ccec7b046b,armagnac.channel,available,12.98,16.48,medium,low,8,namecheap,,,20/09/2026 06:29
-58a7c44a-1510-4ab5-8ed0-97306f5e69fc,sinhala.channel,available,12.98,16.48,high,medium,7,namecheap,,,10/09/2026 08:20
-49c58e00-0319-436a-825f-c545161a74e1,astrodome.channel,available,12.98,16.48,medium,low,9,namecheap,,,20/09/2026 17:37
-2dec6982-b00f-4a44-ad3e-d442d34dc5a5,acoustics.channel,available,12.98,16.48,high,low,9,namecheap,,,17/09/2026 02:36
-3f0d8b3a-ac6e-43cd-bfe6-c27e6743452e,trooper.channel,available,10.55,10.55,high,low,7,spaceship,,,29/09/2026 00:23
-9ef54fdc-01ad-4202-836e-813cfef149cd,processed.channel,available,12.98,16.48,medium,low,9,namecheap,,,28/09/2026 08:40
-172a0ffb-b44a-4ed5-8537-b322ab60666c,attest.channel,available,12.98,16.48,high,low,6,namecheap,,,24/08/2026 15:02
-f58ca309-94f6-4ca7-a717-8868d7b15a1a,tuscaloosa.channel,available,10.55,10.55,medium,low,10,spaceship,,,29/09/2026 02:27
-71e134b3-f4db-43e3-bc6f-2b8cf662d861,comb.channel,premium,37.7,37.7,high,low,4,namecheap,,,24/09/2026 16:22
-5c856bdc-32a2-4395-8f2d-35103c0c0115,descriptions.channel,available,12.98,16.48,medium,low,12,namecheap,,,21/09/2026 07:06
