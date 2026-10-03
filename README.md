@@ -1,10 +1,10 @@
-# Available .CHANNEL One-Word Domains (34,056)
+# Available .CHANNEL One-Word Domains (36,471)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C056%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C471%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .channel one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **34,056 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,471 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 34,056 domains · **Median ask:** $57.06 · **High-demand under $2,500:** 83
+**Public extract:** 1,000 rows · **Live catalog:** 36,471 domains · **Median ask:** $54.77 · **High-demand under $2,500:** 90
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/channel`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| amah.channel | available | $12.98    | $16.48        | medium         | low    | 4      | namecheap |
-| aaa.channel  | premium   | $516.67   | $516.67       | high           | medium | 3      | spaceship |
 | aper.channel | available | $12.98    | $16.48        | medium         | low    | 4      | namecheap |
-| aft.channel  | premium   | $73.75    | $73.75        | high           | low    | 3      | name.com  |
+| aaa.channel  | premium   | $516.67   | $516.67       | high           | medium | 3      | spaceship |
 | arad.channel | available | $10.55    | $10.55        | medium         | low    | 4      | spaceship |
-| asc.channel  | premium   | $61.27    | $61.27        | high           | low    | 3      | spaceship |
+| aft.channel  | premium   | $73.75    | $73.75        | high           | low    | 3      | name.com  |
 | bast.channel | available | $19.99    | $19.99        | medium         | low    | 4      | name.com  |
-| asd.channel  | premium   | $64.93    | $64.93        | high           | low    | 3      | porkbun   |
+| aic.channel  | premium   | $64.93    | $64.93        | high           | low    | 3      | porkbun   |
 | bryn.channel | available | $10.55    | $10.55        | medium         | low    | 4      | spaceship |
-| ask.channel  | premium   | $648.70   | $648.70       | high           | medium | 3      | namecheap |
+| asc.channel  | premium   | $61.27    | $61.27        | high           | low    | 3      | spaceship |
 | deny.channel | available | $12.98    | $16.48        | high           | low    | 4      | namecheap |
-| ata.channel  | premium   | $257.92   | $257.92       | medium         | low    | 3      | spaceship |
+| asd.channel  | premium   | $64.93    | $64.93        | high           | low    | 3      | porkbun   |
 | dorr.channel | available | $10.81    | $10.81        | medium         | low    | 4      | porkbun   |
-| aum.channel  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap |
+| ask.channel  | premium   | $648.70   | $648.70       | high           | medium | 3      | namecheap |
 | erse.channel | available | $12.98    | $16.48        | medium         | low    | 4      | namecheap |
-| bph.channel  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap |
+| ata.channel  | premium   | $257.92   | $257.92       | medium         | low    | 3      | spaceship |
 | etch.channel | available | $12.98    | $16.48        | high           | low    | 4      | namecheap |
-| bra.channel  | premium   | $257.92   | $257.92       | high           | low    | 3      | spaceship |
+| aum.channel  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap |
+| ewen.channel | available | $12.98    | $16.48        | medium         | low    | 4      | namecheap |
+| bph.channel  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap |
 | fist.channel | available | $10.81    | $10.81        | high           | low    | 4      | porkbun   |
-| cba.channel  | premium   | $61.27    | $61.27        | high           | low    | 3      | spaceship |
+| bra.channel  | premium   | $257.92   | $257.92       | high           | low    | 3      | spaceship |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 34,056 live domains                        |
+| 1,000-row public sample | 36,471 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 83 high-demand names under $2,500          |
+| Basic exported fields   | 90 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHANNEL One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHANNEL One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
